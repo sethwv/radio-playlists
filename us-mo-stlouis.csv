@@ -1,17 +1,7 @@
 section,chno,title,group,logo,url
-AM RADIO STREAMS,11080,WRYT 1080,RADIO - AM,https://cdn.raddio.net/storage/photos/13158/g8zu5c254bdbc5c70283989642.png,http://covenantnet.stream.miriamtech.net:8000/wryt
-,11220,KLPW 1220,RADIO - AM,https://cdn.raddio.net/storage/photos/20697/qcn75c254f7b76b42828976193.png,https://stream-01.surfernetwork.com/uxu7891vk1jtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1eHU3ODkxdmsxanR2IiwiaG9zdCI6InN0cmVhbS0wMS5zdXJmZXJuZXR3b3JrLmNvbSIsInJ0dGwiOjUsImp0aSI6InluWUZvMnVuUm1LR3JLNXMtLU5jOXciLCJpYXQiOjE3NzIyMTI5MDgsImV4cCI6MTc3MjIxMjk2OH0.gLpjQieMwjihxmRqqxYpJmKxYOUIcTb7GL5IJ7dSyuY
-,11240,KFMO 1240,RADIO - AM,https://cdn.raddio.net/storage/photos/19938/i2035c254f2a35ec3880331119.png,https://ice24.securenetsystems.net/KFMO
-,11380,KXFN 1380,RADIO - AM,https://cdn.raddio.net/storage/photos/307305/d431236b6179c55eab3ed2d3d34cbb3d.png,https://22213.live.streamtheworld.com:443/RR_MAINAAC_SC
-,11570,WBGZ 1570,RADIO - AM,https://cdn.raddio.net/storage/photos/349130/3541efba283ae4b5b126caded0487c16.jpg,https://ice41.securenetsystems.net/WBGZ?playSessionID=4DD74FB4-99E5-49D1-F236047DAE9208A4
-FM RADIO STREAMS,10887,WSIE 88.7,RADIO - FM,https://cdn.raddio.net/storage/photos/13250/axgm5c254be2a4f11541158980.png,http://streaming.siue.edu:8000/wsie.mp3
-,10895,KCFV 89.5,RADIO - FM,https://cdn.raddio.net/storage/photos/19508/8dfdf7fcb2bc47c30564c65a9f5c8820.png,http://ice24.securenetsystems.net/KCFV
-,10907,KWMU 90.7,RADIO - FM,https://cdn.raddio.net/storage/photos/290190/da33238222836b2cac0fde3ec08df1a6.jpg,https://kwmu1-ice.streamguys1.com/kwmu1
-,10907,KWMU 90.7,RADIO - FM,https://cdn.raddio.net/storage/photos/61223/35cc495803e827d1df8e4023a4aa1a8f.jpg,https://kwmu2-ice.streamguys1.com/jazz-128
-,10947,KQDS 94.7,RADIO - FM,https://cdn.raddio.net/storage/photos/21334/11b6a771eb68d1c90c70ca656d5ee2da.png,https://26143.live.streamtheworld.com:443/KQDSFMAAC_SC
-,11011,WXOS 101.1,RADIO - FM,https://cdn.raddio.net/storage/photos/13858/199ab82b346d35e4e6e6d3b4de456706.png,https://20603.live.streamtheworld.com:443/WXOSFMAAC_SC
-OTHER STREAMS,,MindsEye Radio,RADIO,https://cdn.raddio.net/storage/photos/206955/r07r5c262ad1d10ac887791630.png,https://mindseye.streamguys1.com/xstream
-,,THE VIBE RADIO NETWORK,RADIO,https://cdn.raddio.net/storage/photos/379052/66b4b706eab8068d6510eaa9922f01d0.jpg,http://server2.fleetradionetwork.com:7240/stream
-,,Stylin Radio,RADIO,https://cdn.raddio.net/storage/photos/380399/5162b96f15d3ab6bfc8a97f778ce3659.png,https://nopi.radioca.st/stream
-,,Top Trend Radio 101,RADIO,https://cdn.raddio.net/storage/photos/272191/qftf5adb683869a48591118237.png,http://149.56.157.81/proxy/cwatters?mp=/stream
-,,Boom Boom Room Burlesque Radio,RADIO,https://cdn.raddio.net/storage/photos/373469/64a7e6d9f8b5a0886dad40944e7b7024.gif,https://streaming.radio.co/s358a840bf/listen
+FM RADIO STREAMS,10907,KWMU 90.7,RADIO - FM,https://www.stlpr.org/favicon.ico,https://kwmu.streamguys1.com/jazz-128
+,10991,99.1 Joy FM,RADIO - FM,https://www.joyfmonline.org/wp-content/uploads/2023/05/DSC_6221-scaled-e1684246472378-2000x0-c-default.jpeg,https://gateway.cdnstream1.com/2808_96.aac
+,11077,Z107.7 St. Louis,RADIO - FM,https://i.iheart.com/v3/re/new_assets/dfa2aabf-e02d-476c-a2dc-332f13504e64,http://stream.revma.ihrhls.com/zc1297/hls.m3u8
+OTHER STREAMS,,70s 80s Hits,RADIO,https://cdn-web.tunein.com/assets/img/apple-touch-icon-180.png,https://azuracast.streams.gr/listen/oldieswebradio/hits70s80sradio.mp3?
+,,Boost Radio,RADIO,https://myboostnation.com/favicon.ico,https://gateway.cdnstream1.com/boost-live
+,,"WZKX - Kicker 108 Bay St. Louis, MS",RADIO,https://kicker108.com/favicon.ico,http://ice42.securenetsystems.net/WZKX

@@ -1,9 +1,11 @@
 section,chno,title,group,logo,url
-AM RADIO STREAMS,10570,CKGL 570,RADIO - AM,https://cdn.raddio.net/storage/photos/306920/dk9q5c2cc18560665463489310.png,https://rogers.leanstream.co/rogers/kit570.stream/playlist.m3u8
-FM RADIO STREAMS,10883,CJIQ 88.3,RADIO - FM,https://cdn.raddio.net/storage/photos/5799/4ee9ed6089a588b8e54dff81c6fa7469.png,https://conestoga.leanstream.co/conestoga/CJIQFM.stream/playlist.m3u8
-,10915,CKBT 91.5,RADIO - FM,https://cdn.raddio.net/storage/photos/52730/85fe41a17e0f51c525fb730ea7ac4600.png,https://corus-hls.leanstream.co/corus/CKBTFM.stream/playlist.m3u8
-,10937,CJTW 93.7,RADIO - FM,https://cdn.raddio.net/storage/photos/355780/05a41577632781b8d0009609e4f2c9c9.png,https://ice7.securenetsystems.net/CJTWFM
-,10967,CHYM 96.7,RADIO - FM,https://cdn.raddio.net/storage/photos/346904/69e8724df647895290300f39c555b7e5.png,https://rogers.leanstream.co/rogers/kit967.stream/playlist.m3u8
-,11053,CFCA 105.3,RADIO - FM,https://cdn.raddio.net/storage/photos/18933/2bd373dd5bac4cd7ae3a57a7895f203e.png,https://18853.live.streamtheworld.com:443/CFCAFM_ADP/HLS/playlist.m3u8
-,11067,CIKZ 106.7,RADIO - FM,https://cdn.raddio.net/storage/photos/352231/b0809a47f776bb157345a6752d01f039.jpg,https://rogers.leanstream.co/rogers/kit1067.stream/playlist.m3u8
-,11075,CJDV 107.5,RADIO - FM,https://cdn.raddio.net/storage/photos/234935/mn9p5adb361bbca82177320107.png,https://live.leanstream.co/CJDVFM-MP3
+AM RADIO STREAMS,10570,CKGL 570,RADIO - AM,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/150px-CityNews_570_logo.jpg,https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
+FM RADIO STREAMS,10883,CJIQ 88.3,RADIO - FM,https://media.socastsrm.com/uploads/station/1750/site_header_logo-5bb371659259e.png,https://conestoga.leanstream.co/CJIQFM
+,10915,CKBT 91.5,RADIO - FM,https://915thebeat.com/wp-content/uploads/sites/2/2018/02/cropped-thebeat_512x512.png?w=180,http://live.leanstream.co/CKBTFM-MP3
+,10933,CFRU 93.3,RADIO - FM,https://cfru.ca/favicon.ico,https://listen.cfru.ca/
+,10967,CHYM 96.7,RADIO - FM,https://upload.wikimedia.org/wikipedia/commons/8/83/CHYM_96.7CHYM_logo.png,https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
+,10985,CKWR 98.5,RADIO - FM,https://media.socastsrm.com/uploads/station/1859/site_header_logo-5df3ffce8edd3.png,https://stream2.statsradio.com:8150/stream
+,11067,CIKZ 106.7,RADIO - FM,https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Country_106.7_FM_.png/150px-Country_106.7_FM_.png,https://rogers-hls.leanstream.co/rogers/kit1067.stream/playlist.m3u8
+,11075,CJDV 107.5,RADIO - FM,https://1075daverocks.com/wp-content/uploads/sites/17/2018/02/cropped-dave_512x512.png?w=180,http://live.leanstream.co/CJDVFM-MP3
+OTHER STREAMS,,CKMS-FM Radio Waterloo DI,RADIO,https://radiowaterloo.ca/wp-content/uploads/2017/05/cropped-ckmsLogoSquare-1-e1550119984139.png,https://radiowaterloo.ca/stream
+,,"CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)",RADIO,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png,https://26733.live.streamtheworld.com/CBLAFM2_CBC_SC

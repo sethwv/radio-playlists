@@ -1,22 +1,28 @@
 section,chno,title,group,logo,url
-AM RADIO STREAMS,10560,KSFO 560,RADIO - AM,https://cdn.raddio.net/storage/photos/308516/40a6eec3779293e39c201342c47c6734.png,https://18243.live.streamtheworld.com:443/KSFOAMAAC_SC
-,10680,KNBR 680,RADIO - AM,https://cdn.raddio.net/storage/photos/308397/49db47a2a2afa5e0865dde917f6fa1cc.png,https://29324.live.streamtheworld.com:443/KNBRAMAAC_SC
-,10860,KTRB 860,RADIO - AM,https://cdn.raddio.net/storage/photos/21927/apc05c25502582a1f698872916.png,https://14013.live.streamtheworld.com:443/KTRBAMAAC_SC
-,10960,KNEW 960,RADIO - AM,https://cdn.raddio.net/storage/photos/308671/52abf427972064dff9b751c96a6c8424.png,https://liveproduseast.global.ssl.fastly.net/rad/Channel-RAD-AWS-virginia-1/Source-RadSF-48-1_live.m3u8
-,11050,KNBR 1050,RADIO - AM,https://cdn.raddio.net/storage/photos/308535/031c30ea3dfa14a9d04ce6a15e47c412.png,https://29324.live.streamtheworld.com:443/KTCTAMAAC_SC
-,11260,KYA 1260,RADIO - AM,https://cdn.raddio.net/storage/photos/40416/kjmh5c255b6102f03435948623.png,https://pavo.prostreaming.net:8038/stream
-,11450,KEST 1450,RADIO - AM,https://cdn.raddio.net/storage/photos/19850/csv35c254f23c8c56842040296.png,http://radiokest.serverroom.us:6670/;
-FM RADIO STREAMS,10893,KPFB 89.3,RADIO - FM,https://cdn.raddio.net/storage/photos/21232/a8xr5c254fd8e1c61072666136.png,https://streams.pacifica.org:9000/kpfa
-,10895,KPOO 89.5,RADIO - FM,https://cdn.raddio.net/storage/photos/21268/sf0q5c254fdba1d98211056928.png,http://amber.streamguys.com:5220/xstream
-,10903,KDFC 90.3,RADIO - FM,https://cdn.raddio.net/storage/photos/241964/h7pm5adb378d1b5b0800028885.png,https://14023.live.streamtheworld.com:443/KDFCFMAAC_SC
-,10907,KALX 90.7,RADIO - FM,https://cdn.raddio.net/storage/photos/19159/g5yo5c254ec16166b892305701.png,http://stream.kalx.berkeley.edu:8000/kalx-128.mp3
-,10933,KRZZ 93.3,RADIO - FM,https://cdn.raddio.net/storage/photos/24164/2655a136210a1c66a0d631a09b3ef2f1.png,https://liveaudio.lamusica.com/SF_KRZZ/playlist.m3u8
-,11025,KXSF 102.5,RADIO - FM,https://cdn.raddio.net/storage/photos/109841/927fdf44098c745d3fa0a696d77a2095.jpg,http://107.161.208.3:8000/sfcr
-OTHER STREAMS,,Radio Valencia,RADIO,https://cdn.raddio.net/storage/photos/97872/y3su5c2579e249cbb708785304.png,http://live.str3am.com:3010/live
-,,Rhythm 86,RADIO,https://cdn.raddio.net/storage/photos/64719/904936c5cde21ab3a4d0e9e2644bed5c.jpg,https://forwardmystream.com/rhythm86
-,,Jesus People Radio,RADIO,https://cdn.raddio.net/storage/photos/374031/f7b8c3ea0222df4792e197b67ac7fa60.jpg,https://stream.zeno.fm/0agfx4u4dy8uv
-,,K-LOVE Christmas Radio,RADIO,https://cdn.raddio.net/storage/photos/376104/05e7088d583fd01e264c838c1ed06ff7.png,https://maestro.emfcdn.com/stream_for/k-love-christmas/web/aac
-,,FilAm Stream Radio,RADIO,https://cdn.raddio.net/storage/photos/376271/b13ad03dd241c8e41a9c20ca2085a201.png,https://streaming.live365.com/a64984
-,,Public Radio San Francisco,RADIO,https://cdn.raddio.net/storage/photos/376615/9579dba0af920f7de316cd7748c16d11.png,https://stream.zeno.fm/vp3adqh9bkhvv
-,,860 AM The Answer,RADIO,https://cdn.raddio.net/storage/photos/228460/brip5adb34bab5bfa115081806.png,https://13743.live.streamtheworld.com:443/KTRBAMAAC_SC
-,,Reggae Town Music,RADIO,https://cdn.raddio.net/storage/photos/381165/583c06ae6303e1a20d5080e4d5660e8d.png,https://streaming.live365.com/a34320
+AM RADIO STREAMS,10560,KSFO 560,RADIO - AM,http://www.ksfo.com/favicon.ico,http://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAM_SC
+,10680,KNBR 680,RADIO - AM,http://www.knbr.com/favicon.ico,http://17793.live.streamtheworld.com/KNBRAM_SC
+FM RADIO STREAMS,10881,KKJZ 88.1,RADIO - FM,https://www.kkjz.org/favicon.ico,https://streaming.live365.com/a45189_2
+,10891,KBBF 89.1,RADIO - FM,https://kbbf.org/favicon.ico,http://quarrel.str3am.com:7050/live
+,10895,KPOO 89.5,RADIO - FM,http://www.kpoo.com/favicon.ico,http://amber.streamguys.com:5220/xstream
+,10907,KALX 90.7,RADIO - FM,https://www.kalx.berkeley.edu/wp-content/uploads/2023/07/kalx-logo.png,https://stream.kalx.berkeley.edu:8443/kalx.flac
+,10965,KOIT 96.5,RADIO - FM,https://cdn.bonneville.com/bonneville/wp-content/uploads/sites/7/2020/12/cropped-koit_square-2020-192x192.png,https://bonneville.cdnstream1.com/2624_48.aac
+,10981,KISQ 98.1,RADIO - FM,"https://i.iheart.com/v3/re/assets.brands/5e0a3df06f30114a05e0279e?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",http://stream.revma.ihrhls.com/zc285
+,11017,KKIQ 101.7,RADIO - FM,https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/KKIQ-FM.png/150px-KKIQ-FM.png,https://live.amperwave.net/direct/alphacorporate-kkiqfmmp3-ibc4
+,11077,KSAN 107.7,RADIO - FM,https://www.1077thebone.com/favicon.ico,https://playerservices.streamtheworld.com/api/livestream-redirect/KSANFM.mp3
+OTHER STREAMS,,KQED 128 AAC,RADIO,https://asset.brandfetch.io/idQPhN-lSw/idojwfAi5K.png,https://hls.kqed.org/hls/kqed_app/playlist.m3u8
+,,4u Classic Rock,RADIO,https://cdn.onlineradiobox.com/img/l/4/15394.v1.png,https://str4uice.streamakaci.com/4uclassicrock.mp3
+,,Classical California KDFC,RADIO,https://www.kdfc.com/icons/kdfc/apple-touch-icon-120x120.png,https://14093.live.streamtheworld.com/KDFCFM_SC
+,,GD Radio,RADIO,http://gdradio.net/favicon.ico,https://ssl.rockhost.com/proxy/gdradiov2?mp=/stream
+,,KVHS,RADIO,https://www.kvhs.com/favicon.ico,http://cast1.sql2.smrn.com:5561/live
+,,DNA Radio,RADIO,https://www.dnalounge.com/favicon.ico,https://cerebrum.dnalounge.com:8002/radio
+,,Rythm86,RADIO,https://rhythm86.com/favicon.ico,https://stream.rhythm86.net/stream/RHYTHM86
+,,Rosa Scotia Radio,RADIO,https://cdn.onlineradiobox.com/img/l/5/93005.v2.png,https://onlineradiobox.com/json/us/rosascotia/play?platform=web
+,,Zambuza,RADIO,https://chilltrax.com/favicon.ico,https://streamssl.chilltrax.com/chilltrax-128-mp3
+,,RetroStrange Radio2,RADIO,https://retrostrange.com/wp-content/uploads/2021/01/cropped-RS-MINI-ALT-192x192.png,https://icecast.retrostrange.com:8443/retrostrange-radio2-mp3
+,,RetroStrange Radio1,RADIO,https://retrostrange.com/wp-content/uploads/2021/01/cropped-RS-MINI-ALT-192x192.png,https://icecast.retrostrange.com:8443/retrostrange-radio1-mp3
+,,Free FM 80s San Francisco,RADIO,https://lh5.googleusercontent.com/h_uHjSxZZ4iir8iw8zBcv84t38DX33BPd0x1cG0RKw1wbWAwGwImnUhtfFepUDc_T_SLbuAdiLOSaageDeGoOnKyAEQxzPY9cH2neNhvxjIFAvnbzjs3E_zrw0xasWgj=w1280,https://freefm80.radioca.st/
+,,Psyched Radio. San Francisco.,RADIO,https://www.psychedradiosf.com/wp-content/uploads/2022/12/psyched_logo_white-300x132.png,https://us3.internet-radio.com/proxy/psychedradiosf/stream/
+,,Islamic Bulletin from San Francisco Inspirational Islamic Lectures,RADIO,http://104.7.66.64:8006/;?icy=http/favicon.ico,http://104.7.66.64:8006/;?icy=http
+,,SomaFM Xmas in Frisco (32k AAC),RADIO,https://somafm.com/img3/xmasinfrisko-400.jpg,https://ice6.somafm.com/xmasinfrisko-32-aac
+,,KXSF,RADIO,http://www.kxsf.fm/favicon.ico,http://stream.kxsf.fm:8000/kxsf
+,,SomaFM Xmas in Frisco (64k AAC),RADIO,https://somafm.com/img3/xmasinfrisko-400.jpg,https://ice5.somafm.com/xmasinfrisko-64-aac
