@@ -21,11 +21,11 @@ http://live.leanstream.co/CKNWAM
 https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
 
 # CJVB 1470
-#EXTINF:-1 tvg-chno="11470" tvg-id="11470-CJVB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fairchild_Radio_AM1470_Logo.svg/220px-Fairchild_Radio_AM1470_Logo.svg.png" group-title="RADIO - AM",CJVB 1470
+#EXTINF:-1 tvg-chno="11470" tvg-id="11470-CJVB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fairchild_Radio_AM1470_Logo.svg/250px-Fairchild_Radio_AM1470_Logo.svg.png" group-title="RADIO - AM",CJVB 1470
 https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
 
 # CKGL 570
-#EXTINF:-1 tvg-chno="10570" tvg-id="10570-CKGL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/150px-CityNews_570_logo.jpg" group-title="RADIO - AM",CKGL 570
+#EXTINF:-1 tvg-chno="10570" tvg-id="10570-CKGL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/250px-CityNews_570_logo.jpg" group-title="RADIO - AM",CKGL 570
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 
 # CJCL 590
@@ -41,7 +41,7 @@ https://corus.leanstream.co/CFIQAM-MP3
 https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
 
 # CFRB 1010
-#EXTINF:-1 tvg-chno="11010" tvg-id="11010-CFRB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png" group-title="RADIO - AM",CFRB 1010
+#EXTINF:-1 tvg-chno="11010" tvg-id="11010-CFRB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/250px-Newstalk_1010.png" group-title="RADIO - AM",CFRB 1010
 http://22113.live.streamtheworld.com:3690/CFRBAMAAC_SC
 
 # CHUM 1050
@@ -61,7 +61,7 @@ http://14123.live.streamtheworld.com:3690/CJMRAMAAC_SC
 https://ice66.securenetsystems.net/CIRF
 
 # CHKT 1430
-#EXTINF:-1 tvg-chno="11430" tvg-id="11430-CHKT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Fairchild_Radio_2012.png/100px-Fairchild_Radio_2012.png" group-title="RADIO - AM",CHKT 1430
+#EXTINF:-1 tvg-chno="11430" tvg-id="11430-CHKT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Fairchild_Radio_2012.png/250px-Fairchild_Radio_2012.png" group-title="RADIO - AM",CHKT 1430
 https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
 
 # CHIN 1540
@@ -86,7 +86,7 @@ https://stream.jpbgdigital.com/CJJR/HEAAC/48k/playlist.m3u8
 http://newcap.leanstream.co/CKZZFM
 
 # CHKG 96.1
-#EXTINF:-1 tvg-chno="10961" tvg-id="10961-CHKG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fairchild_Radio_FM96.1_Logo.svg/220px-Fairchild_Radio_FM96.1_Logo.svg.png" group-title="RADIO - FM",CHKG 96.1
+#EXTINF:-1 tvg-chno="10961" tvg-id="10961-CHKG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fairchild_Radio_FM96.1_Logo.svg/250px-Fairchild_Radio_FM96.1_Logo.svg.png" group-title="RADIO - FM",CHKG 96.1
 https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
 
 # CJAX 96.9
@@ -94,7 +94,7 @@ https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
 
 # CIWV 98.3
-#EXTINF:-1 tvg-chno="10983" tvg-id="10983-CIWV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/CIWV-Wave983.svg/275px-CIWV-Wave983.svg.png" group-title="RADIO - FM",CIWV 98.3
+#EXTINF:-1 tvg-chno="10983" tvg-id="10983-CIWV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/CIWV-Wave983.svg/250px-CIWV-Wave983.svg.png" group-title="RADIO - FM",CIWV 98.3
 https://stream2.statsradio.com:8152/stream
 
 # CFOX 99.3
@@ -126,7 +126,7 @@ https://barriere.streamb.live/SB00250
 https://torres-media.streamb.live/SB00191
 
 # CFJB 95.7
-#EXTINF:-1 tvg-chno="10957" tvg-id="10957-CFJB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rock_95_logo.svg/150px-Rock_95_logo.svg.png" group-title="RADIO - FM",CFJB 95.7
+#EXTINF:-1 tvg-chno="10957" tvg-id="10957-CFJB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rock_95_logo.svg/250px-Rock_95_logo.svg.png" group-title="RADIO - FM",CFJB 95.7
 https://cob-ais.leanstream.co/CFJBFM
 
 # CJLF 100.3
@@ -138,7 +138,7 @@ https://netstream.lifeonline.fm/CJLF/ogg_high
 http://live.leanstream.co/CIQBFM-MP3
 
 # CKMB 107.5
-#EXTINF:-1 tvg-chno="11075" tvg-id="11075-CKMB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kool_FM_logo.svg/150px-Kool_FM_logo.svg.png" group-title="RADIO - FM",CKMB 107.5
+#EXTINF:-1 tvg-chno="11075" tvg-id="11075-CKMB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kool_FM_logo.svg/250px-Kool_FM_logo.svg.png" group-title="RADIO - FM",CKMB 107.5
 https://cob-ais.leanstream.co/CKMBFM
 
 # CIMA 92.1
@@ -178,7 +178,7 @@ https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
 https://stream2.statsradio.com:8150/stream
 
 # CIKZ 106.7
-#EXTINF:-1 tvg-chno="11067" tvg-id="11067-CIKZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Country_106.7_FM_.png/150px-Country_106.7_FM_.png" group-title="RADIO - FM",CIKZ 106.7
+#EXTINF:-1 tvg-chno="11067" tvg-id="11067-CIKZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Country_106.7_FM_.png/250px-Country_106.7_FM_.png" group-title="RADIO - FM",CIKZ 106.7
 https://rogers-hls.leanstream.co/rogers/kit1067.stream/playlist.m3u8
 
 # CJDV 107.5
@@ -202,7 +202,7 @@ http://128.100.197.46/
 http://s2.yesstreaming.net:7069/stream
 
 # CKIS 92.5
-#EXTINF:-1 tvg-chno="10925" tvg-id="10925-CKIS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/KiSS_92.5_Logo.png/150px-KiSS_92.5_Logo.png" group-title="RADIO - FM",CKIS 92.5
+#EXTINF:-1 tvg-chno="10925" tvg-id="10925-CKIS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/KiSS_92.5_Logo.png/250px-KiSS_92.5_Logo.png" group-title="RADIO - FM",CKIS 92.5
 https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
 
 # CFXJ 93.5
@@ -242,7 +242,7 @@ https://live.cmr24.net/CMR/Punjabi-MQ/icecast.audio
 http://live.leanstream.co/CFNYFM-MP3
 
 # CJRK 102.7
-#EXTINF:-1 tvg-chno="11027.1" tvg-id="11027.1-CJRK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/CJRK_EastFM102.7_logo.png/220px-CJRK_EastFM102.7_logo.png" group-title="RADIO - FM",CJRK 102.7
+#EXTINF:-1 tvg-chno="11027.1" tvg-id="11027.1-CJRK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/CJRK_EastFM102.7_logo.png/250px-CJRK_EastFM102.7_logo.png" group-title="RADIO - FM",CJRK 102.7
 https://centova.radioservers.biz/proxy/eastfmc1/stream
 
 # CIWS 102.9
@@ -275,7 +275,7 @@ https://29243.live.streamtheworld.com/CBUFM_CBC_SC
 https://18303.live.streamtheworld.com/CBU2FM_CBC_SC
 
 # Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
-#EXTINF:-1 tvg-chno=".3" tvg-id=".3-Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="RADIO",Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
+#EXTINF:-1 tvg-chno=".3" tvg-id=".3-Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/250px-Ici_Musique_logo.svg.png" group-title="RADIO",Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
 https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
 
 # Radio Canada Ici Première (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
@@ -327,7 +327,7 @@ https://29243.live.streamtheworld.com/CBCOFM_CBC_SC
 https://radiowaterloo.ca/stream
 
 # CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
-#EXTINF:-1 tvg-chno=".16" tvg-id=".16-CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png" group-title="RADIO",CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
+#EXTINF:-1 tvg-chno=".16" tvg-id=".16-CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/250px-CBCRadioOne.svg.png" group-title="RADIO",CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
 https://26733.live.streamtheworld.com/CBLAFM2_CBC_SC
 
 # # RdMix Classic Rock 70s 80s 90s
@@ -439,7 +439,7 @@ https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
 https://broadcast.classichits109.com/country
 
 # Radio Canada Ici Première Toronto, ON
-#EXTINF:-1 tvg-chno=".44" tvg-id=".44-Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ICI_Radio-Canada_Premi%C3%A8re.svg/200px-ICI_Radio-Canada_Premi%C3%A8re.svg.png" group-title="RADIO",Radio Canada Ici Première Toronto, ON
+#EXTINF:-1 tvg-chno=".44" tvg-id=".44-Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ICI_Radio-Canada_Premi%C3%A8re.svg/250px-ICI_Radio-Canada_Premi%C3%A8re.svg.png" group-title="RADIO",Radio Canada Ici Première Toronto, ON
 https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8
 
 # Radio Enigma
@@ -447,7 +447,7 @@ https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8
 https://cast1.torontocast.com:4765/stream
 
 # CBC Music Eastern (Toronto) MP3 Stream
-#EXTINF:-1 tvg-chno=".46" tvg-id=".46-CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png" group-title="RADIO",CBC Music Eastern (Toronto) MP3 Stream
+#EXTINF:-1 tvg-chno=".46" tvg-id=".46-CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/250px-CBC_Music_Logo.png" group-title="RADIO",CBC Music Eastern (Toronto) MP3 Stream
 https://18303.live.streamtheworld.com/CBLFM_CBC_SC
 
 # Radio Bellissima Christmas
