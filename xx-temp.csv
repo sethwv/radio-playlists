@@ -3,5 +3,9 @@ SPORTSNET RADIO STREAMS,10590,CJCL 590,RADIO - AM,https://cdn.raddio.net/storage
 ,10590,CJCL 590 (Alt),RADIO - AM,https://cdn.raddio.net/storage/photos/308083/dsbz5c2cc22d4f22c491680545.png,https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/playlist.m3u8
 ,10650,CISL 650,RADIO - AM,https://cdn.raddio.net/storage/photos/327516/bb7b51cd01cf880828f35d4afc57efcb.png,https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 TSN RADIO STREAMS,11050,CHUM 1050,RADIO - AM,https://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png,http://26373.live.streamtheworld.com:3690/CHUMAMAAC_SC
-
 AM RADIO STREAMS,10570,CKGL 570,RADIO - AM,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/250px-CityNews_570_logo.jpg,https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
+FM RADIO STREAMS,10881,CIND 88.1,RADIO - FM,https://static.mytuner.mobi/media/tvos_radios/330/cind-fm-indie88.dcff640f.png,http://cob-ais.leanstream.co/cob/CINDFM.stream/playlist.m3u8
+,10883,CJIQ 88.3,RADIO - FM,https://static.mytuner.mobi/media/tvos_radios/611/cjiq-883.8d6df637.png,https://conestoga.leanstream.co/CJIQFM
+,10915,CKBT 91.5,RADIO - FM,https://static.mytuner.mobi/media/tvos_radios/771/ckbt-fm-915-the-beat.ea9a5b38.png,http://live.leanstream.co/CKBTFM-MP3
+,10967,CHYM 96.7,RADIO - FM,https://static.mytuner.mobi/media/tvos_radios/252/chym-fm-967.fffc1dd5.png,https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
+,11075,CJDV 107.5,RADIO - FM,https://static.mytuner.mobi/media/tvos_radios/070/cjdv-1075-dave-rocks-fm.faf16aa6.jpg,http://live.leanstream.co/CJDVFM-MP3
