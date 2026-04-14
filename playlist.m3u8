@@ -16,17 +16,14 @@ https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="10650" tvg-id="10650-CISL" tvg-logo="https://cdn.raddio.net/storage/photos/327516/bb7b51cd01cf880828f35d4afc57efcb.png" group-title="RADIO - AM",CISL 650
 https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 
-# CISL 650 (Alt)
-#EXTINF:-1 tvg-chno="10650.1" tvg-id="10650.1-CISL" tvg-logo="https://cdn.raddio.net/storage/photos/327516/bb7b51cd01cf880828f35d4afc57efcb.png" group-title="RADIO - AM",CISL 650 (Alt)
-https://rogers-hls.leanstream.co/rogers/van650_alt.stream/playlist.m3u8
 
-# CFAC 960
-#EXTINF:-1 tvg-chno="10960" tvg-id="10960-CFAC" tvg-logo="https://cdn.raddio.net/storage/photos/350219/681b2df339db134c849e6cde17219d28.png" group-title="RADIO - AM",CFAC 960
-https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+# ===================================================================
+# TSN RADIO STREAMS
+# ===================================================================
 
-# CFAC 960 (Alt)
-#EXTINF:-1 tvg-chno="10960.1" tvg-id="10960.1-CFAC" tvg-logo="https://cdn.raddio.net/storage/photos/350219/681b2df339db134c849e6cde17219d28.png" group-title="RADIO - AM",CFAC 960 (Alt)
-https://rogers-hls.leanstream.co/rogers/cal960_alt.stream/playlist.m3u8
+# CHUM 1050
+#EXTINF:-1 tvg-chno="11050" tvg-id="11050-CHUM" tvg-logo="https://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png" group-title="RADIO - AM",CHUM 1050
+http://26373.live.streamtheworld.com:3690/CHUMAMAAC_SC
 
 
 # ===================================================================
