@@ -46,7 +46,7 @@ https://bonneville.cdnstream1.com/2624_48.aac
 http://stream.revma.ihrhls.com/zc285
 
 # KKIQ 101.7
-#EXTINF:-1 tvg-chno="11017" tvg-id="11017-KKIQ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/KKIQ-FM.png/150px-KKIQ-FM.png" group-title="RADIO - FM",KKIQ 101.7
+#EXTINF:-1 tvg-chno="11017" tvg-id="11017-KKIQ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/KKIQ-FM.png/250px-KKIQ-FM.png" group-title="RADIO - FM",KKIQ 101.7
 https://live.amperwave.net/direct/alphacorporate-kkiqfmmp3-ibc4
 
 # KSAN 107.7
@@ -419,7 +419,7 @@ https://mdw-prod-catalyst-0.lp-playback.studio/hls/video+85c28sa2o8wppm58/0_1/in
 http://stream.zeno.fm/91gmf5w1198uv
 
 # Bust.club
-#EXTINF:-1 tvg-chno=".63" tvg-id=".63-Bust.club" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Cum_Town_logo.png/220px-Cum_Town_logo.png" group-title="RADIO",Bust.club
+#EXTINF:-1 tvg-chno=".63" tvg-id=".63-Bust.club" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Cum_Town_logo.png/250px-Cum_Town_logo.png" group-title="RADIO",Bust.club
 https://bust.club/hls/bust1.m3u8
 
 # East Village Radio
