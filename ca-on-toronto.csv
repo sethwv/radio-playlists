@@ -2,19 +2,19 @@ section,chno,title,group,logo,url
 AM RADIO STREAMS,10590,CJCL 590,RADIO - AM,https://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/sn_logo_120x120_bg_white.png,https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
 ,10640,CFIQ 640,RADIO - AM,https://globalnews.ca/wp-content/themes/shaw-globalnews/assets/dist/images/logo-morty.svg,https://corus.leanstream.co/CFIQAM-MP3
 ,10680,CFTR 680,RADIO - AM,https://toronto.citynews.ca/apple-touch-icon.png?v=2,https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
-,11010,CFRB 1010,RADIO - AM,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png,http://22113.live.streamtheworld.com:3690/CFRBAMAAC_SC
+,11010,CFRB 1010,RADIO - AM,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/250px-Newstalk_1010.png,http://22113.live.streamtheworld.com:3690/CFRBAMAAC_SC
 ,11050,CHUM 1050,RADIO - AM,https://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png,http://26373.live.streamtheworld.com:3690/CHUMAMAAC_SC
 ,11280,CJTM 1280,RADIO - AM,https://www.cjru.ca/favicon.ico,https://ryerson.out.airtime.pro/ryerson_a
 ,11320,CJMR 1320,RADIO - AM,http://www.cjmr1320.ca/favicon.ico,http://14123.live.streamtheworld.com:3690/CJMRAMAAC_SC
 ,11350,CIRF 1350,RADIO - AM,https://radiohumsafar.com/wp-content/uploads/2020/03/cropped-RHLOGO-1.png,https://ice66.securenetsystems.net/CIRF
-,11430,CHKT 1430,RADIO - AM,https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Fairchild_Radio_2012.png/100px-Fairchild_Radio_2012.png,https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
+,11430,CHKT 1430,RADIO - AM,https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Fairchild_Radio_2012.png/250px-Fairchild_Radio_2012.png,https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
 ,11540,CHIN 1540,RADIO - AM,https://www.chinradio.com/favicon.ico,http://ice7.securenetsystems.net/CHINAM
 ,11610,CHHA 1610,RADIO - AM,http://chha1610am.ca/favicon.ico,http://72.139.27.130:100/broadwave.mp3?src=1&rate=1
 FM RADIO STREAMS,10881,CIND 88.1,RADIO - FM,https://cdn-radiotime-logos.tunein.com/s204349d.png,http://cob-ais.leanstream.co/cob/CINDFM.stream/playlist.m3u8
 ,10889,CIRV 88.9,RADIO - FM,https://redfm.ca/cirv/favicon.ico,https://ice5.securenetsystems.net/CIRV
 ,10895,CIUT 89.5,RADIO - FM,http://www.ciut.fm/favicon.ico,http://128.100.197.46/
 ,10919,CFRE 91.9,RADIO - FM,https://images.squarespace-cdn.com/content/v1/5f453e92deb6ec2b9b0a16ec/1598389270819-RRTIU8MG9L0KZCDWFDBR/cfre.jpg,http://s2.yesstreaming.net:7069/stream
-,10925,CKIS 92.5,RADIO - FM,https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/KiSS_92.5_Logo.png/150px-KiSS_92.5_Logo.png,https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
+,10925,CKIS 92.5,RADIO - FM,https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/KiSS_92.5_Logo.png/250px-KiSS_92.5_Logo.png,https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
 ,10935,CFXJ 93.5,RADIO - FM,https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2987/files/2023/05/today-hero-logo-23-2.png,http://newcap.leanstream.co/CFXJFM
 ,10959,CJKX 95.9,RADIO - FM,http://www.kx96.fm/favicon.ico,http://22073.live.streamtheworld.com:3690/CJKXFMAAC_SC
 ,10963,CFMZ 96.3,RADIO - FM,https://classicalfm.ca/favicon.ico,https://live.amperwave.net/direct/mzmedia-cfmzfmmp3-ibc2
@@ -24,7 +24,7 @@ FM RADIO STREAMS,10881,CIND 88.1,RADIO - FM,https://cdn-radiotime-logos.tunein.c
 ,10991,CBC Radio 1 Toronto 99.1 FM,RADIO - FM,https://www.cbc.ca/favicon.ico,https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/adaptive_128/chunklist_ao.m3u8
 ,11013,CJSA 101.3,RADIO - FM,https://cmr24.net/favicon.ico,https://live.cmr24.net/CMR/Punjabi-MQ/icecast.audio
 ,11021,CFNY 102.1,RADIO - FM,https://edge.ca/wp-content/uploads/sites/5/2017/12/cropped-fm-logos_512x512_edge.png?w=180,http://live.leanstream.co/CFNYFM-MP3
-,11027,CJRK 102.7,RADIO - FM,https://upload.wikimedia.org/wikipedia/en/thumb/3/30/CJRK_EastFM102.7_logo.png/220px-CJRK_EastFM102.7_logo.png,https://centova.radioservers.biz/proxy/eastfmc1/stream
+,11027,CJRK 102.7,RADIO - FM,https://upload.wikimedia.org/wikipedia/en/thumb/3/30/CJRK_EastFM102.7_logo.png/250px-CJRK_EastFM102.7_logo.png,https://centova.radioservers.biz/proxy/eastfmc1/stream
 ,11029,CIWS 102.9,RADIO - FM,http://whistlefm.ca/wp-content/uploads/2018/03/Twitter-Header-copy.jpg,https://streams.radiomast.io/5fcb1172-3cfc-48e2-92d8-8ff86401c1bd
 ,11055,CHRY 105.5,RADIO - FM,http://www.vibe1055.com/favicon.ico,http://ice7.securenetsystems.net/CHRY
 ,11071,CILQ 107.1,RADIO - FM,https://q107.com/wp-content/uploads/sites/12/2017/12/cropped-favicon_q107_square_transparent.png?w=180,http://live.leanstream.co/CILQFM
@@ -55,9 +55,9 @@ OTHER STREAMS,,# RdMix Classic Rock 70s 80s 90s,RADIO,https://static.wixstatic.c
 ,,Riverwood Radio,RADIO,https://riverwood-radio.online/logo.png,https://stream3.hornhost.com:8054/stream
 ,,RDMIX ITALIAN VINTAGE 70 80 90,RADIO,https://radiodimensionemix.torontocast.stream/favicon.ico,https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
 ,,Classic Hits 109 - Country Hits,RADIO,http://www.classichits109.torontocast.stream/favicon.ico,https://broadcast.classichits109.com/country
-,,"Radio Canada Ici Première Toronto, ON",RADIO,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ICI_Radio-Canada_Premi%C3%A8re.svg/200px-ICI_Radio-Canada_Premi%C3%A8re.svg.png,https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8
+,,"Radio Canada Ici Première Toronto, ON",RADIO,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ICI_Radio-Canada_Premi%C3%A8re.svg/250px-ICI_Radio-Canada_Premi%C3%A8re.svg.png,https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8
 ,,Radio Enigma,RADIO,https://enigmastationonair.com/favicon.ico,https://cast1.torontocast.com:4765/stream
-,,CBC Music Eastern (Toronto) MP3 Stream,RADIO,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png,https://18303.live.streamtheworld.com/CBLFM_CBC_SC
+,,CBC Music Eastern (Toronto) MP3 Stream,RADIO,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/250px-CBC_Music_Logo.png,https://18303.live.streamtheworld.com/CBLFM_CBC_SC
 ,,Radio Bellissima Christmas,RADIO,https://radiobellissima.it/favicon.ico,https://puma.streemlion.com:1340/stream
 ,,Fighting Game Community Radio,RADIO,https://www.fgcast.com/wp-content/uploads/2024/03/cropped-FGCast_Logo_SiteLogo_background.png,https://radio.fgcast.com/listen/fgc_radio/standard.mp3
 ,,Power Pop Rock Radio,RADIO,https://www.powerradio.world/favicon.ico,https://cheetah.streemlion.com:3430/stream

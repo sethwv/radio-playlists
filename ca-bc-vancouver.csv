@@ -3,12 +3,12 @@ AM RADIO STREAMS,10600,SHER E PUNJAB AM 600,RADIO - AM,https://www.sherepunjabra
 ,10650,Sportsnet 650 Vancouver,RADIO - AM,https://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/sn_logo_120x120_bg_white.png,http://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 ,10980,CKNW 980,RADIO - AM,https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/pwa/news_square-144.png,http://live.leanstream.co/CKNWAM
 ,11130,CKWX 1130,RADIO - AM,https://www.citynews1130.com/favicon.ico,https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
-,11470,CJVB 1470,RADIO - AM,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fairchild_Radio_AM1470_Logo.svg/220px-Fairchild_Radio_AM1470_Logo.svg.png,https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
+,11470,CJVB 1470,RADIO - AM,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fairchild_Radio_AM1470_Logo.svg/250px-Fairchild_Radio_AM1470_Logo.svg.png,https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
 FM RADIO STREAMS,10937,CJJR 93.7,RADIO - FM,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CJJR-FM-COLOUR.jpg/250px-CJJR-FM-COLOUR.jpg,https://stream.jpbgdigital.com/CJJR/HEAAC/48k/playlist.m3u8
 ,10953,CKZZ 95.3,RADIO - FM,http://www.z953.ca/favicon.ico,http://newcap.leanstream.co/CKZZFM
-,10961,CHKG 96.1,RADIO - FM,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fairchild_Radio_FM96.1_Logo.svg/220px-Fairchild_Radio_FM96.1_Logo.svg.png,https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+,10961,CHKG 96.1,RADIO - FM,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fairchild_Radio_FM96.1_Logo.svg/250px-Fairchild_Radio_FM96.1_Logo.svg.png,https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
 ,10969,CJAX 96.9,RADIO - FM,https://www.jack969.com/wp-content/uploads/sites/13/2023/03/cropped-static-logo-jack-969-180x180.png,https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
-,10983,CIWV 98.3,RADIO - FM,https://upload.wikimedia.org/wikipedia/en/thumb/6/64/CIWV-Wave983.svg/275px-CIWV-Wave983.svg.png,https://stream2.statsradio.com:8152/stream
+,10983,CIWV 98.3,RADIO - FM,https://upload.wikimedia.org/wikipedia/en/thumb/6/64/CIWV-Wave983.svg/250px-CIWV-Wave983.svg.png,https://stream2.statsradio.com:8152/stream
 ,10993,CFOX 99.3,RADIO - FM,https://cfox.com/wp-content/uploads/sites/24/2018/01/cropped-fm-logos_512x512_cfox.png?w=180,http://live.leanstream.co/CFOXFM-MP3
 ,11011,CFMI 101.1,RADIO - FM,https://rock101.com/wp-content/uploads/sites/22/2018/01/cropped-fm-logos_512x512_rock101.png?w=180,http://live.leanstream.co/CFMIFM-MP3
 ,11027,CKPK 102.7,RADIO - FM,https://www.thepeak.fm/favicon.ico,http://stream.jpbgdigital.com/CKPK.m3u8
@@ -17,7 +17,7 @@ FM RADIO STREAMS,10937,CJJR 93.7,RADIO - FM,https://upload.wikimedia.org/wikiped
 OTHER STREAMS,,80's New Wave Radio,RADIO,https://newwaveradio.org/favicon.ico,https://puma.streemlion.com:2910/stream
 ,,CBC Music Pacific (Vancouver) MP3 Stream,RADIO,https://www.cbc.ca/favicon.ico,https://29243.live.streamtheworld.com/CBUFM_CBC_SC
 ,,"CBC Radio One - Vancouver, BC (MP3 stream)",RADIO,https://www.cbc.ca/mediacentre/content/images/CBC_BC_logo.JPG,https://18303.live.streamtheworld.com/CBU2FM_CBC_SC
-,,"Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC",RADIO,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png,https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
+,,"Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC",RADIO,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/250px-Ici_Musique_logo.svg.png,https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
 ,,"Radio Canada Ici Première (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC",RADIO,https://ici.radio-canada.ca/ohdio/premiere/favicon.ico,https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/master.m3u8
 ,,La Bonita X101,RADIO,https://www.labonita.sitiolink.com/favicon.ico,https://listen.labonita.torontocast.stream/
 ,,Scratch Radio,RADIO,https://img.freepik.com/premium-psd/vinyl-record-isolated-white-background-png_1034016-13491.jpg,http://24.87.64.59:8000/stream
