@@ -21,7 +21,7 @@ http://live.leanstream.co/CKNWAM
 https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
 
 # CJVB 1470
-#EXTINF:-1 tvg-chno="11470" tvg-id="11470-CJVB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fairchild_Radio_AM1470_Logo.svg/220px-Fairchild_Radio_AM1470_Logo.svg.png" group-title="RADIO - AM",CJVB 1470
+#EXTINF:-1 tvg-chno="11470" tvg-id="11470-CJVB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fairchild_Radio_AM1470_Logo.svg/250px-Fairchild_Radio_AM1470_Logo.svg.png" group-title="RADIO - AM",CJVB 1470
 https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
 
 
@@ -38,7 +38,7 @@ https://stream.jpbgdigital.com/CJJR/HEAAC/48k/playlist.m3u8
 http://newcap.leanstream.co/CKZZFM
 
 # CHKG 96.1
-#EXTINF:-1 tvg-chno="10961" tvg-id="10961-CHKG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fairchild_Radio_FM96.1_Logo.svg/220px-Fairchild_Radio_FM96.1_Logo.svg.png" group-title="RADIO - FM",CHKG 96.1
+#EXTINF:-1 tvg-chno="10961" tvg-id="10961-CHKG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fairchild_Radio_FM96.1_Logo.svg/250px-Fairchild_Radio_FM96.1_Logo.svg.png" group-title="RADIO - FM",CHKG 96.1
 https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
 
 # CJAX 96.9
@@ -46,7 +46,7 @@ https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
 
 # CIWV 98.3
-#EXTINF:-1 tvg-chno="10983" tvg-id="10983-CIWV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/CIWV-Wave983.svg/275px-CIWV-Wave983.svg.png" group-title="RADIO - FM",CIWV 98.3
+#EXTINF:-1 tvg-chno="10983" tvg-id="10983-CIWV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/CIWV-Wave983.svg/250px-CIWV-Wave983.svg.png" group-title="RADIO - FM",CIWV 98.3
 https://stream2.statsradio.com:8152/stream
 
 # CFOX 99.3
@@ -87,7 +87,7 @@ https://29243.live.streamtheworld.com/CBUFM_CBC_SC
 https://18303.live.streamtheworld.com/CBU2FM_CBC_SC
 
 # Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
-#EXTINF:-1 tvg-chno=".3" tvg-id=".3-Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="RADIO",Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
+#EXTINF:-1 tvg-chno=".3" tvg-id=".3-Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/250px-Ici_Musique_logo.svg.png" group-title="RADIO",Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
 https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
 
 # Radio Canada Ici Première (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
