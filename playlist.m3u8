@@ -33,3 +33,28 @@ http://26373.live.streamtheworld.com:3690/CHUMAMAAC_SC
 # CKGL 570
 #EXTINF:-1 tvg-chno="10570" tvg-id="10570-CKGL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/250px-CityNews_570_logo.jpg" group-title="RADIO - AM",CKGL 570
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
+
+
+# ===================================================================
+# FM RADIO STREAMS
+# ===================================================================
+
+# CIND 88.1
+#EXTINF:-1 tvg-chno="10881" tvg-id="10881-CIND" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/330/cind-fm-indie88.dcff640f.png" group-title="RADIO - FM",CIND 88.1
+http://cob-ais.leanstream.co/cob/CINDFM.stream/playlist.m3u8
+
+# CJIQ 88.3
+#EXTINF:-1 tvg-chno="10883" tvg-id="10883-CJIQ" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/611/cjiq-883.8d6df637.png" group-title="RADIO - FM",CJIQ 88.3
+https://conestoga.leanstream.co/CJIQFM
+
+# CKBT 91.5
+#EXTINF:-1 tvg-chno="10915" tvg-id="10915-CKBT" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/771/ckbt-fm-915-the-beat.ea9a5b38.png" group-title="RADIO - FM",CKBT 91.5
+http://live.leanstream.co/CKBTFM-MP3
+
+# CHYM 96.7
+#EXTINF:-1 tvg-chno="10967" tvg-id="10967-CHYM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/252/chym-fm-967.fffc1dd5.png" group-title="RADIO - FM",CHYM 96.7
+https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
+
+# CJDV 107.5
+#EXTINF:-1 tvg-chno="11075" tvg-id="11075-CJDV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/070/cjdv-1075-dave-rocks-fm.faf16aa6.jpg" group-title="RADIO - FM",CJDV 107.5
+http://live.leanstream.co/CJDVFM-MP3
