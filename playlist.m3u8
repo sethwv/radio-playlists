@@ -5,8 +5,8 @@
 # ===================================================================
 
 # CKGL 570
-#EXTINF:-1 tvg-chno="10570" tvg-id="10570-CKGL" tvg-logo="https://cdn.raddio.net/storage/photos/306920/dk9q5c2cc18560665463489310.png" group-title="RADIO - AM",CKGL 570
-https://rogers.leanstream.co/rogers/kit570.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10570" tvg-id="10570-CKGL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/150px-CityNews_570_logo.jpg" group-title="RADIO - AM",CKGL 570
+https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 
 
 # ===================================================================
@@ -14,29 +14,42 @@ https://rogers.leanstream.co/rogers/kit570.stream/playlist.m3u8
 # ===================================================================
 
 # CJIQ 88.3
-#EXTINF:-1 tvg-chno="10883" tvg-id="10883-CJIQ" tvg-logo="https://cdn.raddio.net/storage/photos/5799/4ee9ed6089a588b8e54dff81c6fa7469.png" group-title="RADIO - FM",CJIQ 88.3
-https://conestoga.leanstream.co/conestoga/CJIQFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10883" tvg-id="10883-CJIQ" tvg-logo="https://media.socastsrm.com/uploads/station/1750/site_header_logo-5bb371659259e.png" group-title="RADIO - FM",CJIQ 88.3
+https://conestoga.leanstream.co/CJIQFM
 
 # CKBT 91.5
-#EXTINF:-1 tvg-chno="10915" tvg-id="10915-CKBT" tvg-logo="https://cdn.raddio.net/storage/photos/52730/85fe41a17e0f51c525fb730ea7ac4600.png" group-title="RADIO - FM",CKBT 91.5
-https://corus-hls.leanstream.co/corus/CKBTFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10915" tvg-id="10915-CKBT" tvg-logo="https://915thebeat.com/wp-content/uploads/sites/2/2018/02/cropped-thebeat_512x512.png?w=180" group-title="RADIO - FM",CKBT 91.5
+http://live.leanstream.co/CKBTFM-MP3
 
-# CJTW 93.7
-#EXTINF:-1 tvg-chno="10937" tvg-id="10937-CJTW" tvg-logo="https://cdn.raddio.net/storage/photos/355780/05a41577632781b8d0009609e4f2c9c9.png" group-title="RADIO - FM",CJTW 93.7
-https://ice7.securenetsystems.net/CJTWFM
+# CFRU 93.3
+#EXTINF:-1 tvg-chno="10933" tvg-id="10933-CFRU" tvg-logo="https://cfru.ca/favicon.ico" group-title="RADIO - FM",CFRU 93.3
+https://listen.cfru.ca/
 
 # CHYM 96.7
-#EXTINF:-1 tvg-chno="10967" tvg-id="10967-CHYM" tvg-logo="https://cdn.raddio.net/storage/photos/346904/69e8724df647895290300f39c555b7e5.png" group-title="RADIO - FM",CHYM 96.7
-https://rogers.leanstream.co/rogers/kit967.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10967" tvg-id="10967-CHYM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CHYM_96.7CHYM_logo.png" group-title="RADIO - FM",CHYM 96.7
+https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
 
-# CFCA 105.3
-#EXTINF:-1 tvg-chno="11053" tvg-id="11053-CFCA" tvg-logo="https://cdn.raddio.net/storage/photos/18933/2bd373dd5bac4cd7ae3a57a7895f203e.png" group-title="RADIO - FM",CFCA 105.3
-https://18853.live.streamtheworld.com:443/CFCAFM_ADP/HLS/playlist.m3u8
+# CKWR 98.5
+#EXTINF:-1 tvg-chno="10985" tvg-id="10985-CKWR" tvg-logo="https://media.socastsrm.com/uploads/station/1859/site_header_logo-5df3ffce8edd3.png" group-title="RADIO - FM",CKWR 98.5
+https://stream2.statsradio.com:8150/stream
 
 # CIKZ 106.7
-#EXTINF:-1 tvg-chno="11067" tvg-id="11067-CIKZ" tvg-logo="https://cdn.raddio.net/storage/photos/352231/b0809a47f776bb157345a6752d01f039.jpg" group-title="RADIO - FM",CIKZ 106.7
-https://rogers.leanstream.co/rogers/kit1067.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="11067" tvg-id="11067-CIKZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Country_106.7_FM_.png/150px-Country_106.7_FM_.png" group-title="RADIO - FM",CIKZ 106.7
+https://rogers-hls.leanstream.co/rogers/kit1067.stream/playlist.m3u8
 
 # CJDV 107.5
-#EXTINF:-1 tvg-chno="11075" tvg-id="11075-CJDV" tvg-logo="https://cdn.raddio.net/storage/photos/234935/mn9p5adb361bbca82177320107.png" group-title="RADIO - FM",CJDV 107.5
-https://live.leanstream.co/CJDVFM-MP3
+#EXTINF:-1 tvg-chno="11075" tvg-id="11075-CJDV" tvg-logo="https://1075daverocks.com/wp-content/uploads/sites/17/2018/02/cropped-dave_512x512.png?w=180" group-title="RADIO - FM",CJDV 107.5
+http://live.leanstream.co/CJDVFM-MP3
+
+
+# ===================================================================
+# OTHER STREAMS
+# ===================================================================
+
+# CKMS-FM Radio Waterloo DI
+#EXTINF:-1 tvg-chno="" tvg-id="-CKMS-FM" tvg-logo="https://radiowaterloo.ca/wp-content/uploads/2017/05/cropped-ckmsLogoSquare-1-e1550119984139.png" group-title="RADIO",CKMS-FM Radio Waterloo DI
+https://radiowaterloo.ca/stream
+
+# CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
+#EXTINF:-1 tvg-chno=".1" tvg-id=".1-CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png" group-title="RADIO",CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBLAFM2_CBC_SC
