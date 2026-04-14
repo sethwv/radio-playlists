@@ -2,7 +2,6 @@ section,chno,title,group,logo,url
 SPORTSNET RADIO STREAMS,10590,CJCL 590,RADIO - AM,https://cdn.raddio.net/storage/photos/308083/dsbz5c2cc22d4f22c491680545.png,https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
 ,10590,CJCL 590 (Alt),RADIO - AM,https://cdn.raddio.net/storage/photos/308083/dsbz5c2cc22d4f22c491680545.png,https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/playlist.m3u8
 ,10650,CISL 650,RADIO - AM,https://cdn.raddio.net/storage/photos/327516/bb7b51cd01cf880828f35d4afc57efcb.png,https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
-,10650,CISL 650 (Alt),RADIO - AM,https://cdn.raddio.net/storage/photos/327516/bb7b51cd01cf880828f35d4afc57efcb.png,https://rogers-hls.leanstream.co/rogers/van650_alt.stream/playlist.m3u8
-,10960,CFAC 960,RADIO - AM,https://cdn.raddio.net/storage/photos/350219/681b2df339db134c849e6cde17219d28.png,https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
-,10960,CFAC 960 (Alt),RADIO - AM,https://cdn.raddio.net/storage/photos/350219/681b2df339db134c849e6cde17219d28.png,https://rogers-hls.leanstream.co/rogers/cal960_alt.stream/playlist.m3u8
+TSN RADIO STREAMS,11050,CHUM 1050,RADIO - AM,https://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png,http://26373.live.streamtheworld.com:3690/CHUMAMAAC_SC
+
 AM RADIO STREAMS,10570,CKGL 570,RADIO - AM,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/250px-CityNews_570_logo.jpg,https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
