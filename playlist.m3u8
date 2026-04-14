@@ -5,7 +5,7 @@
 # ===================================================================
 
 # CKGL 570
-#EXTINF:-1 tvg-chno="10570" tvg-id="10570-CKGL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/150px-CityNews_570_logo.jpg" group-title="RADIO - AM",CKGL 570
+#EXTINF:-1 tvg-chno="10570" tvg-id="10570-CKGL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/250px-CityNews_570_logo.jpg" group-title="RADIO - AM",CKGL 570
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 
 
@@ -34,7 +34,7 @@ https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
 https://stream2.statsradio.com:8150/stream
 
 # CIKZ 106.7
-#EXTINF:-1 tvg-chno="11067" tvg-id="11067-CIKZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Country_106.7_FM_.png/150px-Country_106.7_FM_.png" group-title="RADIO - FM",CIKZ 106.7
+#EXTINF:-1 tvg-chno="11067" tvg-id="11067-CIKZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Country_106.7_FM_.png/250px-Country_106.7_FM_.png" group-title="RADIO - FM",CIKZ 106.7
 https://rogers-hls.leanstream.co/rogers/kit1067.stream/playlist.m3u8
 
 # CJDV 107.5
@@ -51,5 +51,5 @@ http://live.leanstream.co/CJDVFM-MP3
 https://radiowaterloo.ca/stream
 
 # CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
-#EXTINF:-1 tvg-chno=".1" tvg-id=".1-CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png" group-title="RADIO",CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
+#EXTINF:-1 tvg-chno=".1" tvg-id=".1-CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/250px-CBCRadioOne.svg.png" group-title="RADIO",CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
 https://26733.live.streamtheworld.com/CBLAFM2_CBC_SC
