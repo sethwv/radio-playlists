@@ -4,516 +4,440 @@
 # FM RADIO STREAMS
 # ===================================================================
 
-# CISO 89.1
-#EXTINF:-1 tvg-chno="10891" tvg-id="10891-CISO" tvg-logo="https://cdn.raddio.net/storage/photos/309749/ecfd644100c767daf6c857e24c49eaf7.jpg" group-title="RADIO - FM",CISO 89.1
-https://bayshore-ais.leanstream.co/bayshore-ais/CISOFM.stream/playlist.m3u8
+# CHLW 93.1
+#EXTINF:-1 tvg-chno="10931" tvg-id="10931-CHLW" tvg-logo="https://www.thebear931.com/favicon.ico" group-title="RADIO - FM",CHLW 93.1
+https://barriere.streamb.live/SB00250
 
-# CHAY 93.1
-#EXTINF:-1 tvg-chno="10931" tvg-id="10931-CHAY" tvg-logo="https://cdn.raddio.net/storage/photos/238200/59b45d812f3edaeabfc586bc2e8dee14.png" group-title="RADIO - FM",CHAY 93.1
-https://live.leanstream.co/CHAYFM-MP3?args=tunein
+# CKOU 93.7
+#EXTINF:-1 tvg-chno="10937" tvg-id="10937-CKOU" tvg-logo="https://media.socastsrm.com/uploads/station/2266/site_header_logo-5fa440d70f3fa.png" group-title="RADIO - FM",CKOU 93.7
+https://torres-media.streamb.live/SB00191
 
 # CFJB 95.7
-#EXTINF:-1 tvg-chno="10950" tvg-id="10950-CFJB" tvg-logo="https://cdn.raddio.net/storage/photos/307506/uvmt5c2cc1db98f68225176717.png" group-title="RADIO - FM",CFJB 95.7
-https://buf-live2-ais-relay1.leanstream.co/cob/CFJBFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10957" tvg-id="10957-CFJB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rock_95_logo.svg/150px-Rock_95_logo.svg.png" group-title="RADIO - FM",CFJB 95.7
+https://cob-ais.leanstream.co/CFJBFM
 
 # CJLF 100.3
-#EXTINF:-1 tvg-chno="11003" tvg-id="11003-CJLF" tvg-logo="https://cdn.raddio.net/storage/photos/14553/ivtc5c254c7912487041070460.png" group-title="RADIO - FM",CJLF 100.3
-http://netstream.lifeonline.fm/CJLF/128mp3
+#EXTINF:-1 tvg-chno="11003" tvg-id="11003-CJLF" tvg-logo="https://lifeonline.fm/wp-content/uploads/2019/01/cropped-life-circle-logo-4-192x192.png" group-title="RADIO - FM",CJLF 100.3
+https://netstream.lifeonline.fm/CJLF/ogg_high
 
 # CIQB 101.1
-#EXTINF:-1 tvg-chno="11011" tvg-id="11011-CIQB" tvg-logo="https://cdn.raddio.net/storage/photos/308085/51e6ac0194519833a82315a2b6fe5447.png" group-title="RADIO - FM",CIQB 101.1
-https://corus-hls.leanstream.co/corus/CIQBFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="11011" tvg-id="11011-CIQB" tvg-logo="https://1011bigfm.com/wp-content/uploads/sites/16/2018/02/cropped-big1011-logo-512x512.png?w=180" group-title="RADIO - FM",CIQB 101.1
+http://live.leanstream.co/CIQBFM-MP3
 
-# CICX 105.9
-#EXTINF:-1 tvg-chno="11059" tvg-id="11059-CICX" tvg-logo="https://cdn.raddio.net/storage/photos/346890/c929ca1f198dbafddc580e7ef42f251e.jpg" group-title="RADIO - FM",CICX 105.9
-https://15313.live.streamtheworld.com:443/CICXFM_ADP/HLS/playlist.m3u8
+# CKMB 107.5
+#EXTINF:-1 tvg-chno="11075" tvg-id="11075-CKMB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kool_FM_logo.svg/150px-Kool_FM_logo.svg.png" group-title="RADIO - FM",CKMB 107.5
+https://cob-ais.leanstream.co/CKMBFM
 
-# CICX 106
-#EXTINF:-1 tvg-chno="11060" tvg-id="11060-CICX" tvg-logo="https://cdn.raddio.net/storage/photos/344323/79d92f4ff7efa8104b1c07c297b51066.png" group-title="RADIO - FM",CICX 106
-https://15313.live.streamtheworld.com:443/CICXFM_ADP/HLS/playlist.m3u8
-
-# CKYC 93.7
-#EXTINF:-1 tvg-chno="10937" tvg-id="10937-CKYC" tvg-logo="https://cdn.raddio.net/storage/photos/309137/2320a4b746310dd2832523a2edae89db.png" group-title="RADIO - FM",CKYC 93.7
-https://bayshore-ais.leanstream.co/bayshore-ais/CKYCFM.stream/playlist.m3u8
+# CIMA 92.1
+#EXTINF:-1 tvg-chno="10921" tvg-id="10921-CIMA" tvg-logo="https://media.socastsrm.com/uploads/station/1787/site_header_logo-613163e75f2f0.png" group-title="RADIO - FM",CIMA 92.1
+https://localradio.streamb.live/SB00097
 
 # CKCB 95.1
-#EXTINF:-1 tvg-chno="10951" tvg-id="10951-CKCB" tvg-logo="https://cdn.raddio.net/storage/photos/271655/myb05adb681c8e9e7279308719.png" group-title="RADIO - FM",CKCB 95.1
-https://corus-hls.leanstream.co/corus/CKCBFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10951" tvg-id="10951-CKCB" tvg-logo="https://thepeakfm.com/wp-content/uploads/sites/9/2018/03/cropped-thepeak_512x512.png?w=180" group-title="RADIO - FM",CKCB 95.1
+http://live.leanstream.co/CKCBFM-MP3
 
-# CIXK 106.5
-#EXTINF:-1 tvg-chno="11065" tvg-id="11065-CIXK" tvg-logo="https://cdn.raddio.net/storage/photos/308084/e2f4626d3d8abb1f0cf5773b40c57ff5.jpg" group-title="RADIO - FM",CIXK 106.5
-https://bayshore-ais.leanstream.co/bayshore-ais/CIXKFM.stream/playlist.m3u8
+# CJGB 99.3
+#EXTINF:-1 tvg-chno="10993" tvg-id="10993-CJGB" tvg-logo="https://media.socastsrm.com/uploads/station/2572/squareIcon.png" group-title="RADIO - FM",CJGB 99.3
+https://evanov.streamb.live/SB00234
+
+# CFDC 104.9
+#EXTINF:-1 tvg-chno="11049" tvg-id="11049-CFDC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/CFDC_Country105_logo.png" group-title="RADIO - FM",CFDC 104.9
+https://bayshore-ais.leanstream.co/CFDCFM
 
 # CJIQ 88.3
-#EXTINF:-1 tvg-chno="10883" tvg-id="10883-CJIQ" tvg-logo="https://cdn.raddio.net/storage/photos/5799/4ee9ed6089a588b8e54dff81c6fa7469.png" group-title="RADIO - FM",CJIQ 88.3
-https://conestoga.leanstream.co/conestoga/CJIQFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10883" tvg-id="10883-CJIQ" tvg-logo="https://media.socastsrm.com/uploads/station/1750/site_header_logo-5bb371659259e.png" group-title="RADIO - FM",CJIQ 88.3
+https://conestoga.leanstream.co/CJIQFM
 
 # CKBT 91.5
-#EXTINF:-1 tvg-chno="10915" tvg-id="10915-CKBT" tvg-logo="https://cdn.raddio.net/storage/photos/52730/85fe41a17e0f51c525fb730ea7ac4600.png" group-title="RADIO - FM",CKBT 91.5
-https://corus-hls.leanstream.co/corus/CKBTFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10915" tvg-id="10915-CKBT" tvg-logo="https://915thebeat.com/wp-content/uploads/sites/2/2018/02/cropped-thebeat_512x512.png?w=180" group-title="RADIO - FM",CKBT 91.5
+http://live.leanstream.co/CKBTFM-MP3
 
-# CJTW 93.7
-#EXTINF:-1 tvg-chno="10937.1" tvg-id="10937.1-CJTW" tvg-logo="https://cdn.raddio.net/storage/photos/355780/05a41577632781b8d0009609e4f2c9c9.png" group-title="RADIO - FM",CJTW 93.7
-https://ice7.securenetsystems.net/CJTWFM
+# CFRU 93.3
+#EXTINF:-1 tvg-chno="10933" tvg-id="10933-CFRU" tvg-logo="https://cfru.ca/favicon.ico" group-title="RADIO - FM",CFRU 93.3
+https://listen.cfru.ca/
 
 # CHYM 96.7
-#EXTINF:-1 tvg-chno="10967" tvg-id="10967-CHYM" tvg-logo="https://cdn.raddio.net/storage/photos/346904/69e8724df647895290300f39c555b7e5.png" group-title="RADIO - FM",CHYM 96.7
-https://rogers.leanstream.co/rogers/kit967.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10967" tvg-id="10967-CHYM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CHYM_96.7CHYM_logo.png" group-title="RADIO - FM",CHYM 96.7
+https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
 
-# CFCA 105.3
-#EXTINF:-1 tvg-chno="11053" tvg-id="11053-CFCA" tvg-logo="https://cdn.raddio.net/storage/photos/18933/2bd373dd5bac4cd7ae3a57a7895f203e.png" group-title="RADIO - FM",CFCA 105.3
-https://18853.live.streamtheworld.com:443/CFCAFM_ADP/HLS/playlist.m3u8
+# CKWR 98.5
+#EXTINF:-1 tvg-chno="10985" tvg-id="10985-CKWR" tvg-logo="https://media.socastsrm.com/uploads/station/1859/site_header_logo-5df3ffce8edd3.png" group-title="RADIO - FM",CKWR 98.5
+https://stream2.statsradio.com:8150/stream
 
 # CIKZ 106.7
-#EXTINF:-1 tvg-chno="11067" tvg-id="11067-CIKZ" tvg-logo="https://cdn.raddio.net/storage/photos/352231/b0809a47f776bb157345a6752d01f039.jpg" group-title="RADIO - FM",CIKZ 106.7
-https://rogers.leanstream.co/rogers/kit1067.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="11067" tvg-id="11067-CIKZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Country_106.7_FM_.png/150px-Country_106.7_FM_.png" group-title="RADIO - FM",CIKZ 106.7
+https://rogers-hls.leanstream.co/rogers/kit1067.stream/playlist.m3u8
 
 # CJDV 107.5
-#EXTINF:-1 tvg-chno="11075" tvg-id="11075-CJDV" tvg-logo="https://cdn.raddio.net/storage/photos/234935/mn9p5adb361bbca82177320107.png" group-title="RADIO - FM",CJDV 107.5
-https://live.leanstream.co/CJDVFM-MP3
+#EXTINF:-1 tvg-chno="11075.1" tvg-id="11075.1-CJDV" tvg-logo="https://1075daverocks.com/wp-content/uploads/sites/17/2018/02/cropped-dave_512x512.png?w=180" group-title="RADIO - FM",CJDV 107.5
+http://live.leanstream.co/CJDVFM-MP3
 
 # CIND 88.1
-#EXTINF:-1 tvg-chno="10881" tvg-id="10881-CIND" tvg-logo="https://cdn.raddio.net/storage/photos/310672/mnvr5c2cc398e9908066159389.png" group-title="RADIO - FM",CIND 88.1
-https://localradio.streamb.live/SB00349
+#EXTINF:-1 tvg-chno="10881" tvg-id="10881-CIND" tvg-logo="https://cdn-radiotime-logos.tunein.com/s204349d.png" group-title="RADIO - FM",CIND 88.1
+http://cob-ais.leanstream.co/cob/CINDFM.stream/playlist.m3u8
 
 # CIRV 88.9
-#EXTINF:-1 tvg-chno="10889" tvg-id="10889-CIRV" tvg-logo="https://cdn.raddio.net/storage/photos/352143/9c378925425e2de56cbaa7bb87b2e250.png" group-title="RADIO - FM",CIRV 88.9
-http://ice5.securenetsystems.net:80/CIRV
+#EXTINF:-1 tvg-chno="10889" tvg-id="10889-CIRV" tvg-logo="https://redfm.ca/cirv/favicon.ico" group-title="RADIO - FM",CIRV 88.9
+https://ice5.securenetsystems.net/CIRV
 
-# CJRT 91.1
-#EXTINF:-1 tvg-chno="10911" tvg-id="10911-CJRT" tvg-logo="https://cdn.raddio.net/storage/photos/19023/e95921ca68357f927446107547173c0b.png" group-title="RADIO - FM",CJRT 91.1
-https://jazzfm91.streamb.live/SB00009?args=tunein_01
+# CIUT 89.5
+#EXTINF:-1 tvg-chno="10895" tvg-id="10895-CIUT" tvg-logo="http://www.ciut.fm/favicon.ico" group-title="RADIO - FM",CIUT 89.5
+http://128.100.197.46/
 
-# CHIN 91.9
-#EXTINF:-1 tvg-chno="10919" tvg-id="10919-CHIN" tvg-logo="https://cdn.raddio.net/storage/photos/307001/1ed636e8123c1811e632aaedb63717ab.png" group-title="RADIO - FM",CHIN 91.9
-http://ice24.securenetsystems.net/CHINFM1
+# CFRE 91.9
+#EXTINF:-1 tvg-chno="10919" tvg-id="10919-CFRE" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f453e92deb6ec2b9b0a16ec/1598389270819-RRTIU8MG9L0KZCDWFDBR/cfre.jpg" group-title="RADIO - FM",CFRE 91.9
+http://s2.yesstreaming.net:7069/stream
 
 # CKIS 92.5
-#EXTINF:-1 tvg-chno="10925" tvg-id="10925-CKIS" tvg-logo="https://cdn.raddio.net/storage/photos/350261/f263618e01aa8652f022fd5ae9217189.png" group-title="RADIO - FM",CKIS 92.5
+#EXTINF:-1 tvg-chno="10925" tvg-id="10925-CKIS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/KiSS_92.5_Logo.png/150px-KiSS_92.5_Logo.png" group-title="RADIO - FM",CKIS 92.5
 https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
 
 # CFXJ 93.5
-#EXTINF:-1 tvg-chno="10935" tvg-id="10935-CFXJ" tvg-logo="https://cdn.raddio.net/storage/photos/228593/e40da5af0d8c16cfc8add8d921de5fe1.png" group-title="RADIO - FM",CFXJ 93.5
-https://newcap-hls.leanstream.co/newcap/CFXJFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10935" tvg-id="10935-CFXJ" tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2987/files/2023/05/today-hero-logo-23-2.png" group-title="RADIO - FM",CFXJ 93.5
+http://newcap.leanstream.co/CFXJFM
 
-# CKHC 96.9
-#EXTINF:-1 tvg-chno="10969" tvg-id="10969-CKHC" tvg-logo="https://cdn.raddio.net/storage/photos/14503/lvoo5c254c74ea042885792786.png" group-title="RADIO - FM",CKHC 96.9
-https://live.leanstream.co/CKHCFM-MP3
+# CJKX 95.9
+#EXTINF:-1 tvg-chno="10959" tvg-id="10959-CJKX" tvg-logo="http://www.kx96.fm/favicon.ico" group-title="RADIO - FM",CJKX 95.9
+http://22073.live.streamtheworld.com:3690/CJKXFMAAC_SC
+
+# CFMZ 96.3
+#EXTINF:-1 tvg-chno="10963" tvg-id="10963-CFMZ" tvg-logo="https://classicalfm.ca/favicon.ico" group-title="RADIO - FM",CFMZ 96.3
+https://live.amperwave.net/direct/mzmedia-cfmzfmmp3-ibc2
 
 # CHBM 97.3
-#EXTINF:-1 tvg-chno="10973" tvg-id="10973-CHBM" tvg-logo="https://cdn.raddio.net/storage/photos/308082/46c22eba25c80cd548890afb677a1860.png" group-title="RADIO - FM",CHBM 97.3
-https://newcap-hls.leanstream.co/newcap/CHBMFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="10973" tvg-id="10973-CHBM" tvg-logo="http://www.boom973.com/favicon.ico" group-title="RADIO - FM",CHBM 97.3
+http://newcap.leanstream.co/CHBMFM
 
 # CHFI 98.1
-#EXTINF:-1 tvg-chno="10981" tvg-id="10981-CHFI" tvg-logo="https://cdn.raddio.net/storage/photos/350240/151da9b9a8c9f26623df6f61d8491d6b.png" group-title="RADIO - FM",CHFI 98.1
+#EXTINF:-1 tvg-chno="10981" tvg-id="10981-CHFI" tvg-logo="https://www.chfi.com/wp-content/uploads/sites/2/2023/03/cropped-static-logo-chfi-180x180.png" group-title="RADIO - FM",CHFI 98.1
 https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8
 
 # CKFG 98.7
-#EXTINF:-1 tvg-chno="10987" tvg-id="10987-CKFG" tvg-logo="https://cdn.raddio.net/storage/photos/100308/11eeecb07d98356564da8ebc28a857fc.png" group-title="RADIO - FM",CKFG 98.7
-http://ice64.securenetsystems.net/CKFG
+#EXTINF:-1 tvg-chno="10987" tvg-id="10987-CKFG" tvg-logo="https://flow987.com/favicon.ico" group-title="RADIO - FM",CKFG 98.7
+https://ice64.securenetsystems.net:80/CKFG
 
-# CKFM 99.9
-#EXTINF:-1 tvg-chno="10999" tvg-id="10999-CKFM" tvg-logo="https://cdn.raddio.net/storage/photos/19031/9c91b06223ac0632ef3b6e412ca34d1e.png" group-title="RADIO - FM",CKFM 99.9
-https://19293.live.streamtheworld.com:443/CKFMFM_ADP/HLS/playlist.m3u8
+# CBC Radio 1 Toronto 99.1 FM
+#EXTINF:-1 tvg-chno="10991" tvg-id="10991-CBC" tvg-logo="https://www.cbc.ca/favicon.ico" group-title="RADIO - FM",CBC Radio 1 Toronto 99.1 FM
+https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/adaptive_128/chunklist_ao.m3u8
 
-# CHIR 100.5
-#EXTINF:-1 tvg-chno="11005" tvg-id="11005-CHIR" tvg-logo="https://cdn.raddio.net/storage/photos/2787/17298903395f1f413aec5eb278a5d990.png" group-title="RADIO - FM",CHIR 100.5
-http://nap.casthost.net:8004/stream
-
-# CHIN 100.7
-#EXTINF:-1 tvg-chno="11007" tvg-id="11007-CHIN" tvg-logo="https://cdn.raddio.net/storage/photos/344476/7dd0f50962834f39c6c31f41b9863cfe.png" group-title="RADIO - FM",CHIN 100.7
-http://ice7.securenetsystems.net/CHINFM
-
-# CMR 101.3
-#EXTINF:-1 tvg-chno="11013" tvg-id="11013-CMR" tvg-logo="https://cdn.raddio.net/storage/photos/48278/9c733b632acfd3f2dcfca21e4dad3457.png" group-title="RADIO - FM",CMR 101.3
-https://live.cmr24.net/CMR/CMR-HQ/icecast.audio
-
-# CMR 101.3
-#EXTINF:-1 tvg-chno="11013.1" tvg-id="11013.1-CMR" tvg-logo="https://cdn.raddio.net/storage/photos/165113/ua385c261893e545f628556118.png" group-title="RADIO - FM",CMR 101.3
-https://live.cmr24.net/CMR/TamilHD-HQ/icecast.audio
-
-# CMR 101.3
-#EXTINF:-1 tvg-chno="11013.2" tvg-id="11013.2-CMR" tvg-logo="https://cdn.raddio.net/storage/photos/165115/b7795c2618940f7d9286468285.png" group-title="RADIO - FM",CMR 101.3
-https://live.cmr24.net/CMR/Desi_Music-HQ/icecast.audio
+# CJSA 101.3
+#EXTINF:-1 tvg-chno="11013" tvg-id="11013-CJSA" tvg-logo="https://cmr24.net/favicon.ico" group-title="RADIO - FM",CJSA 101.3
+https://live.cmr24.net/CMR/Punjabi-MQ/icecast.audio
 
 # CFNY 102.1
-#EXTINF:-1 tvg-chno="11021" tvg-id="11021-CFNY" tvg-logo="https://cdn.raddio.net/storage/photos/226663/64327e43b2bd795bc8f7296ca7e07aa1.jpg" group-title="RADIO - FM",CFNY 102.1
-https://corus-hls.leanstream.co/corus/CFNYFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="11021" tvg-id="11021-CFNY" tvg-logo="https://edge.ca/wp-content/uploads/sites/5/2017/12/cropped-fm-logos_512x512_edge.png?w=180" group-title="RADIO - FM",CFNY 102.1
+http://live.leanstream.co/CFNYFM-MP3
 
-# CIDC 103.5
-#EXTINF:-1 tvg-chno="11035" tvg-id="11035-CIDC" tvg-logo="https://cdn.raddio.net/storage/photos/304703/18b50f258e7ebdec223deab45e9ace55.png" group-title="RADIO - FM",CIDC 103.5
-https://evanov.leanstream.co/evanov/CIDCFM.stream/playlist.m3u8
+# CJRK 102.7
+#EXTINF:-1 tvg-chno="11027" tvg-id="11027-CJRK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/CJRK_EastFM102.7_logo.png/220px-CJRK_EastFM102.7_logo.png" group-title="RADIO - FM",CJRK 102.7
+https://centova.radioservers.biz/proxy/eastfmc1/stream
 
-# CHUM 104.5
-#EXTINF:-1 tvg-chno="11045" tvg-id="11045-CHUM" tvg-logo="https://cdn.raddio.net/storage/photos/18987/c52e64e0fed57c403496b82244978116.png" group-title="RADIO - FM",CHUM 104.5
-https://18163.live.streamtheworld.com:443/CHUMFM_ADP/HLS/playlist.m3u8
+# CIWS 102.9
+#EXTINF:-1 tvg-chno="11029" tvg-id="11029-CIWS" tvg-logo="http://whistlefm.ca/wp-content/uploads/2018/03/Twitter-Header-copy.jpg" group-title="RADIO - FM",CIWS 102.9
+https://streams.radiomast.io/5fcb1172-3cfc-48e2-92d8-8ff86401c1bd
 
-# CHOQ 105.1
-#EXTINF:-1 tvg-chno="11051" tvg-id="11051-CHOQ" tvg-logo="https://cdn.raddio.net/storage/photos/58625/c11q5c2566ba4f5bc791341240.png" group-title="RADIO - FM",CHOQ 105.1
-http://ice9.securenetsystems.net/CHOQ
+# CHRY 105.5
+#EXTINF:-1 tvg-chno="11055" tvg-id="11055-CHRY" tvg-logo="http://www.vibe1055.com/favicon.ico" group-title="RADIO - FM",CHRY 105.5
+http://ice7.securenetsystems.net/CHRY
 
-# CIRK 107.1
-#EXTINF:-1 tvg-chno="11071" tvg-id="11071-CIRK" tvg-logo="https://cdn.raddio.net/storage/photos/250761/cb2066cf455eaa1adf4ddb018ef7a30f.png" group-title="RADIO - FM",CIRK 107.1
-https://newcap-hls.leanstream.co/newcap/CIRKFM.stream/playlist.m3u8
-
-
-# ===================================================================
-# AM RADIO STREAMS
-# ===================================================================
-
-# CFOS 560
-#EXTINF:-1 tvg-chno="10560" tvg-id="10560-CFOS" tvg-logo="https://cdn.raddio.net/storage/photos/305941/2e797f51b808e1a315ac415ee2fe2edf.png" group-title="RADIO - AM",CFOS 560
-https://bayshore-ais.leanstream.co/bayshore-ais/CFOSAM.stream/playlist.m3u8
-
-# CKGL 570
-#EXTINF:-1 tvg-chno="10570" tvg-id="10570-CKGL" tvg-logo="https://cdn.raddio.net/storage/photos/306920/dk9q5c2cc18560665463489310.png" group-title="RADIO - AM",CKGL 570
-https://rogers.leanstream.co/rogers/kit570.stream/playlist.m3u8
-
-# CFMJ 640
-#EXTINF:-1 tvg-chno="10640" tvg-id="10640-CFMJ" tvg-logo="https://cdn.raddio.net/storage/photos/218482/706d5241d5307060d9fe02012d78e478.png" group-title="RADIO - AM",CFMJ 640
-https://corus-hls.leanstream.co/corus/CFMJAM.stream/playlist.m3u8
-
-# CFTR 680
-#EXTINF:-1 tvg-chno="10680" tvg-id="10680-CFTR" tvg-logo="https://cdn.raddio.net/storage/photos/350259/dbd06980db2b80b68f18fc4f9d7b3190.png" group-title="RADIO - AM",CFTR 680
-https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
-
-# CJBC 860
-#EXTINF:-1 tvg-chno="10860" tvg-id="10860-CJBC" tvg-logo="https://cdn.raddio.net/storage/photos/19005/6424cd3ce819a27fe1d221d140b9f786.png" group-title="RADIO - AM",CJBC 860
-https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8
-
-# CFRB 1010
-#EXTINF:-1 tvg-chno="11010" tvg-id="11010-CFRB" tvg-logo="https://cdn.raddio.net/storage/photos/18951/ab28d747523c2f927e0529527fd7848c.png" group-title="RADIO - AM",CFRB 1010
-https://26193.live.streamtheworld.com:443/CFRBAM_ADP/HLS/playlist.m3u8
-
-# CHUM 1050
-#EXTINF:-1 tvg-chno="11050" tvg-id="11050-CHUM" tvg-logo="https://cdn.raddio.net/storage/photos/15130/89c31a1449c33977805e10b41e561da2.png" group-title="RADIO - AM",CHUM 1050
-https://18003.live.streamtheworld.com:443/CHUMAM_ADP/HLS/playlist.m3u8
-
-# CJRU 1280
-#EXTINF:-1 tvg-chno="11280" tvg-id="11280-CJRU" tvg-logo="https://cdn.raddio.net/storage/photos/163667/k8ow5c26181be2b65708954719.png" group-title="RADIO - AM",CJRU 1280
-http://ryerson.out.airtime.pro:8000/ryerson_b
-
-# CHKT 1430
-#EXTINF:-1 tvg-chno="11430" tvg-id="11430-CHKT" tvg-logo="https://cdn.raddio.net/storage/photos/237718/x8c45adb36ae0100d055416617.png" group-title="RADIO - AM",CHKT 1430
-http://icecast01.eseenet.com:8000/am1430
-
-# CHIN 1540
-#EXTINF:-1 tvg-chno="11540" tvg-id="11540-CHIN" tvg-logo="https://cdn.raddio.net/storage/photos/308087/c4f75c2cc22dcadea762390499.png" group-title="RADIO - AM",CHIN 1540
-http://ice7.securenetsystems.net/CHINAM
-
-# CHHA 1610
-#EXTINF:-1 tvg-chno="11610" tvg-id="11610-CHHA" tvg-logo="https://cdn.raddio.net/storage/photos/345543/be80caec59245e607e8cfe08e4ebab5e.png" group-title="RADIO - AM",CHHA 1610
-http://72.139.27.130:100/broadwave.mp3?src=1&rate=1&ref=
-
-# CHTO 1690
-#EXTINF:-1 tvg-chno="11690" tvg-id="11690-CHTO" tvg-logo="https://cdn.raddio.net/storage/photos/232238/60a88932badb6fe0439ff39d0b40d3dc.png" group-title="RADIO - AM",CHTO 1690
-https://phoebe.streamerr.co:4920/;
+# CILQ 107.1
+#EXTINF:-1 tvg-chno="11071" tvg-id="11071-CILQ" tvg-logo="https://q107.com/wp-content/uploads/sites/12/2017/12/cropped-favicon_q107_square_transparent.png?w=180" group-title="RADIO - FM",CILQ 107.1
+http://live.leanstream.co/CILQFM
 
 
 # ===================================================================
 # OTHER STREAMS
 # ===================================================================
 
-# Alternative Rock Variety @ MEGASHUFFLE.com
-#EXTINF:-1 tvg-chno="" tvg-id="-Alternative" tvg-logo="https://cdn.raddio.net/storage/photos/75274/wrya5c256f4de4c1b985302460.png" group-title="RADIO",Alternative Rock Variety @ MEGASHUFFLE.com
-https://streaming.live365.com/a18329
+# CBC Radio One - Barrie, ON
+#EXTINF:-1 tvg-chno="" tvg-id="-CBC" tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581433263108-cbc-radio-one.png" group-title="RADIO",CBC Radio One - Barrie, ON
+https://29243.live.streamtheworld.com/CBCOFM_CBC_SC
 
-# ETN.FM Trance
-#EXTINF:-1 tvg-chno=".1" tvg-id=".1-ETN.FM" tvg-logo="https://cdn.raddio.net/storage/photos/28224/vim15c2553a729a15396774754.png" group-title="RADIO",ETN.FM Trance
-http://8.43.48.6:8120/;
+# CKMS-FM Radio Waterloo DI
+#EXTINF:-1 tvg-chno=".1" tvg-id=".1-CKMS-FM" tvg-logo="https://radiowaterloo.ca/wp-content/uploads/2017/05/cropped-ckmsLogoSquare-1-e1550119984139.png" group-title="RADIO",CKMS-FM Radio Waterloo DI
+https://radiowaterloo.ca/stream
 
-# Beach Chill-Out Radio
-#EXTINF:-1 tvg-chno=".2" tvg-id=".2-Beach" tvg-logo="https://cdn.raddio.net/storage/photos/280866/f56f54cf5be318b70c1e9c45b00f73e2.png" group-title="RADIO",Beach Chill-Out Radio
-https://quincy.torontocast.com:2975/stream
+# CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
+#EXTINF:-1 tvg-chno=".2" tvg-id=".2-CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBCRadioOne.svg/320px-CBCRadioOne.svg.png" group-title="RADIO",CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBLAFM2_CBC_SC
 
-# Canadian Tamil Broadcasting Corporation
-#EXTINF:-1 tvg-chno=".3" tvg-id=".3-Canadian" tvg-logo="https://cdn.raddio.net/storage/photos/565/7f86389eeb9dcb28cbe94b888efe4121.png" group-title="RADIO",Canadian Tamil Broadcasting Corporation
-http://ctbcfmradio.primcast.com:4086/;
+# # RdMix Classic Rock 70s 80s 90s
+#EXTINF:-1 tvg-chno=".3" tvg-id=".3-#" tvg-logo="https://static.wixstatic.com/media/f361b3_1bad7e5fb9a54196b2ac2c2fe71d6e4f~mv2.jpg" group-title="RADIO",# RdMix Classic Rock 70s 80s 90s
+https://cast1.torontocast.com:4610/stream
 
-# Canadian Tamil Radio 3
-#EXTINF:-1 tvg-chno=".4" tvg-id=".4-Canadian" tvg-logo="https://cdn.raddio.net/storage/photos/232965/7b807e0da9382953a485e067e00705a0.jpg" group-title="RADIO",Canadian Tamil Radio 3
-http://198.27.66.225:8498/stream
+# # 70s 80s 90s RdMix Network
+#EXTINF:-1 tvg-chno=".4" tvg-id=".4-#" tvg-logo="https://radiodimensionemix.torontocast.stream/favicon.ico" group-title="RADIO",# 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
 
-# Yimago Earth
-#EXTINF:-1 tvg-chno=".5" tvg-id=".5-Yimago" tvg-logo="https://cdn.raddio.net/storage/photos/304669/527a3a71669170cd5ade5d6eda1d8f90.png" group-title="RADIO",Yimago Earth
-https://yimago.torontocast.stream/earth
-
-# DJ FM
-#EXTINF:-1 tvg-chno=".6" tvg-id=".6-DJ" tvg-logo="https://cdn.raddio.net/storage/photos/9944/4d75a943fa74a50c467f72edfd3ed297.png" group-title="RADIO",DJ FM
-http://mux.mtl.djfmradio.com/djfm3
-
-# Journeyscapes
-#EXTINF:-1 tvg-chno=".7" tvg-id=".7-Journeyscapes" tvg-logo="https://cdn.raddio.net/storage/photos/283857/02b08c99b05548d4e98565028757f1ff.png" group-title="RADIO",Journeyscapes
-http://216.126.196.154:4580/stream
-
-# Yimago Jazz
-#EXTINF:-1 tvg-chno=".8" tvg-id=".8-Yimago" tvg-logo="https://cdn.raddio.net/storage/photos/166844/d5b1e5e23d1262770426e030200c04c3.png" group-title="RADIO",Yimago Jazz
-https://yimago.torontocast.stream/jazz
-
-# Retro Hits Good Times Great Oldies
-#EXTINF:-1 tvg-chno=".9" tvg-id=".9-Retro" tvg-logo="https://cdn.raddio.net/storage/photos/301376/8b95bf0696c1319729c3f8583743c590.png" group-title="RADIO",Retro Hits Good Times Great Oldies
-http://s1.nexuscast.com:8038/;
-
-# Jeepney Pinoy Radio
-#EXTINF:-1 tvg-chno=".10" tvg-id=".10-Jeepney" tvg-logo="https://cdn.raddio.net/storage/photos/283809/11090440017481754628e31a7d15f93b.jpg" group-title="RADIO",Jeepney Pinoy Radio
-https://usa5.fastcast4u.com//proxy/mcbnjpr?mp=/1
-
-# KBuena Suave
-#EXTINF:-1 tvg-chno=".11" tvg-id=".11-KBuena" tvg-logo="https://cdn.raddio.net/storage/photos/182450/np5m5c26208f104c4558830932.png" group-title="RADIO",KBuena Suave
-http://server2.ejeserver.com:8644/live
-
-# ATOMIC CITY with Skip Bombwell
-#EXTINF:-1 tvg-chno=".12" tvg-id=".12-ATOMIC" tvg-logo="https://cdn.raddio.net/storage/photos/229183/a5fbe441df173aabec171dcd5623df4c.png" group-title="RADIO",ATOMIC CITY with Skip Bombwell
-http://jenny.torontocast.com:8166/stream
-
-# KONA Stream
-#EXTINF:-1 tvg-chno=".13" tvg-id=".13-KONA" tvg-logo="https://cdn.raddio.net/storage/photos/79119/5343508066bd53eaa150a3461d0df6a6.jpg" group-title="RADIO",KONA Stream
-http://jenny.torontocast.com:9002/stereo
-
-# Dubplate.fm - Urban Boogie Radio
-#EXTINF:-1 tvg-chno=".14" tvg-id=".14-Dubplate.fm" tvg-logo="https://cdn.raddio.net/storage/photos/100332/fcd0e706014b4f47b0743cacb73c339f.png" group-title="RADIO",Dubplate.fm - Urban Boogie Radio
-https://sc2.dubplate.fm/radio/8010/urbanboogie/uhifi
-
-# Flashback Alternatives
-#EXTINF:-1 tvg-chno=".15" tvg-id=".15-Flashback" tvg-logo="https://cdn.raddio.net/storage/photos/294084/5441652267f4be6a4962b7c88cf5801c.png" group-title="RADIO",Flashback Alternatives
-https://puma.streemlion.com/fa192
-
-# Unity Fm Canada
-#EXTINF:-1 tvg-chno=".16" tvg-id=".16-Unity" tvg-logo="https://cdn.raddio.net/storage/photos/95046/7f6579cb4a06cae0a352dc53889edc61.jpg" group-title="RADIO",Unity Fm Canada
-https://stream.zeno.fm/507dzk77gkeuv
-
-# Radio Bellissima Italia
-#EXTINF:-1 tvg-chno=".17" tvg-id=".17-Radio" tvg-logo="https://cdn.raddio.net/storage/photos/287173/f3b3ae056218f0056ff54eea04c02a83.png" group-title="RADIO",Radio Bellissima Italia
-https://listen.openstream.co/6095/audio
-
-# Toronto Global Radio - House Channel 1
-#EXTINF:-1 tvg-chno=".18" tvg-id=".18-Toronto" tvg-logo="https://cdn.raddio.net/storage/photos/114632/2e665a28246107f46a1a2193f96bc33b.png" group-title="RADIO",Toronto Global Radio - House Channel 1
-http://london-dedicated.myautodj.com:8138/stream
-
-# Radio Faro
-#EXTINF:-1 tvg-chno=".19" tvg-id=".19-Radio" tvg-logo="https://cdn.raddio.net/storage/photos/332205/f99b67be94fca804b7dfb12d6721b981.jpg" group-title="RADIO",Radio Faro
-https://cast1.torontocast.com:5230/stream
-
-# Kilimandjaro Radio
-#EXTINF:-1 tvg-chno=".20" tvg-id=".20-Kilimandjaro" tvg-logo="https://cdn.raddio.net/storage/photos/177247/c66af59446c9e814f9e111835a4556df.jpg" group-title="RADIO",Kilimandjaro Radio
-http://s1.voscast.com:8336/;
-
-# Radio Sud International
-#EXTINF:-1 tvg-chno=".21" tvg-id=".21-Radio" tvg-logo="https://cdn.raddio.net/storage/photos/173132/61e7c8dd0ea08a08069c465219aca824.jpg" group-title="RADIO",Radio Sud International
-https://cast1.torontocast.com:2805/stream
-
-# Musicbox4friends
-#EXTINF:-1 tvg-chno=".22" tvg-id=".22-Musicbox4friends" tvg-logo="https://cdn.raddio.net/storage/photos/167504/586b88ff6da6fc23e97330219f62655c.jpg" group-title="RADIO",Musicbox4friends
-https://maggie.torontocast.com:8038/musicbox
-
-# Star Radio FM
-#EXTINF:-1 tvg-chno=".23" tvg-id=".23-Star" tvg-logo="https://cdn.raddio.net/storage/photos/224092/0d5e8ce0ff9046ac05dc9c5148fc6be8.png" group-title="RADIO",Star Radio FM
-https://ams1.reliastream.com/proxy/guvaldez?mp=/stream
-
-# Starflight Radio
-#EXTINF:-1 tvg-chno=".24" tvg-id=".24-Starflight" tvg-logo="https://cdn.raddio.net/storage/photos/203145/736bc90b0067101c14753db40535a425.jpg" group-title="RADIO",Starflight Radio
-https://bluford.torontocast.com/proxy/mmkywvdq/stream
-
-# Malhans Hindi HQ Radio
-#EXTINF:-1 tvg-chno=".25" tvg-id=".25-Malhans" tvg-logo="https://cdn.raddio.net/storage/photos/377664/673e05bd9bf0de69034d433d83420112.jpg" group-title="RADIO",Malhans Hindi HQ Radio
-https://stream.zeno.fm/mabgug7xyp8uv
-
-# All Hit Remixes @ MEGASHUFFLE.com
-#EXTINF:-1 tvg-chno=".26" tvg-id=".26-All" tvg-logo="https://cdn.raddio.net/storage/photos/379225/73cc7063234ec346af03cd313cc5f623.jpg" group-title="RADIO",All Hit Remixes @ MEGASHUFFLE.com
-https://streaming.live365.com/a57200
-
-# 100 BEST SMOOTH JAZZ CLUB
-#EXTINF:-1 tvg-chno=".27" tvg-id=".27-100" tvg-logo="https://cdn.raddio.net/storage/photos/378136/86e92df21ffdaa0f79d5561c2938694e.png" group-title="RADIO",100 BEST SMOOTH JAZZ CLUB
-https://listen.openstream.co/7010/audio
-
-# Nitty-Gritty Music Radio
-#EXTINF:-1 tvg-chno=".28" tvg-id=".28-Nitty-Gritty" tvg-logo="https://cdn.raddio.net/storage/photos/373880/3dc23e55b9bafadcd3c05d230853c161.jpg" group-title="RADIO",Nitty-Gritty Music Radio
-https://cast1.torontocast.com:1405/stream
-
-# A MISSISSIPPI BLUES
-#EXTINF:-1 tvg-chno=".29" tvg-id=".29-A" tvg-logo="https://cdn.raddio.net/storage/photos/375496/743424201f8d2b8949a775a7062ac97d.jpg" group-title="RADIO",A MISSISSIPPI BLUES
-https://cast1.torontocast.com:4450/stream
-
-# RDMIX LOVE SONGS
-#EXTINF:-1 tvg-chno=".30" tvg-id=".30-RDMIX" tvg-logo="https://cdn.raddio.net/storage/photos/373012/86dfcad01511e306a1aa9493d32ca0ce.jpg" group-title="RADIO",RDMIX LOVE SONGS
-https://maggie.torontocast.com:2020/stream/rdmixlovesongs
-
-# 1001 R&B STARS
-#EXTINF:-1 tvg-chno=".31" tvg-id=".31-1001" tvg-logo="https://cdn.raddio.net/storage/photos/379072/8333ad2a4fa795bc67166150d80b7f1f.png" group-title="RADIO",1001 R&B STARS
-https://listen.openstream.co/6452/audio
-
-# RDMIX ITALO DISCO 80S
-#EXTINF:-1 tvg-chno=".32" tvg-id=".32-RDMIX" tvg-logo="https://cdn.raddio.net/storage/photos/373013/da2e5ee6aa232b7e5e39f9a086966885.jpg" group-title="RADIO",RDMIX ITALO DISCO 80S
-https://cast1.torontocast.com:2130/stream
-
-# AIRPORT LOUNGE RADIO
-#EXTINF:-1 tvg-chno=".33" tvg-id=".33-AIRPORT" tvg-logo="https://cdn.raddio.net/storage/photos/378063/5ae5f4fa9f36de6b8b960e773436142f.png" group-title="RADIO",AIRPORT LOUNGE RADIO
-https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3
-
-# TBN Reggae Radio
-#EXTINF:-1 tvg-chno=".34" tvg-id=".34-TBN" tvg-logo="https://cdn.raddio.net/storage/photos/378956/b65bd2b066f345b34fc7c8df5f09f33a.png" group-title="RADIO",TBN Reggae Radio
-https://puma.streemlion.com:1085/stream
-
-# Music is Magic
-#EXTINF:-1 tvg-chno=".35" tvg-id=".35-Music" tvg-logo="https://cdn.raddio.net/storage/photos/379839/82c72005883f77d664e30067e1d5b050.jpg" group-title="RADIO",Music is Magic
-https://kathy.torontocast.com:2645/stream
-
-# Tin Pan Alley Radio
-#EXTINF:-1 tvg-chno=".36" tvg-id=".36-Tin" tvg-logo="https://cdn.raddio.net/storage/photos/373997/55ded9eea96b61b82545f3595145d50e.png" group-title="RADIO",Tin Pan Alley Radio
-https://radio.streemlion.com:5325/stream
-
-# SHE LOVES RNB RADIO
-#EXTINF:-1 tvg-chno=".37" tvg-id=".37-SHE" tvg-logo="https://cdn.raddio.net/storage/photos/379541/fbc8653798157f7f8f87d52ee3536d15.jpg" group-title="RADIO",SHE LOVES RNB RADIO
-https://a3.asurahosting.com:6150/radio.mp3
-
-# MANHATTAN JAZZ CLUB
-#EXTINF:-1 tvg-chno=".38" tvg-id=".38-MANHATTAN" tvg-logo="https://cdn.raddio.net/storage/photos/375924/944258bbf32cbd7bf964f2ad8512cfbd.jpg" group-title="RADIO",MANHATTAN JAZZ CLUB
-https://listen.openstream.co/6439/audio
-
-# Alexandria Radio
-#EXTINF:-1 tvg-chno=".39" tvg-id=".39-Alexandria" tvg-logo="https://cdn.raddio.net/storage/photos/380936/bc6f339d35ee8f80a33752ba1212d964.png" group-title="RADIO",Alexandria Radio
-https://altair.streamerr.co:8106/stream
-
-# SUITE JAZZ RADIO
-#EXTINF:-1 tvg-chno=".40" tvg-id=".40-SUITE" tvg-logo="https://cdn.raddio.net/storage/photos/372653/b41e1ffbda4a118efb986a51e63ba772.jpg" group-title="RADIO",SUITE JAZZ RADIO
-https://jenny.torontocast.com:2000/stream/suitejazzradio
-
-# NATURE RADIO OCEAN
-#EXTINF:-1 tvg-chno=".41" tvg-id=".41-NATURE" tvg-logo="https://cdn.raddio.net/storage/photos/377828/2ea215ae4004e51ccb611a1ea93b8224.png" group-title="RADIO",NATURE RADIO OCEAN
-https://listen.openstream.co/6503/audio
-
-# 100 CINEMA SOUNDTRACKS
-#EXTINF:-1 tvg-chno=".42" tvg-id=".42-100" tvg-logo="https://cdn.raddio.net/storage/photos/378164/8220d28023fa4b1f6f04fd01ea82c52a.png" group-title="RADIO",100 CINEMA SOUNDTRACKS
-https://listen.openstream.co/4240/audio
-
-# Countryradio.musicbox4friends
-#EXTINF:-1 tvg-chno=".43" tvg-id=".43-Countryradio.musicbox4friends" tvg-logo="https://cdn.raddio.net/storage/photos/379846/2f96189fe4f71d80e931f80f32d68861.jpg" group-title="RADIO",Countryradio.musicbox4friends
-https://maggie.torontocast.com:8092/country
-
-# 100 GREATEST OF THE 80'S
-#EXTINF:-1 tvg-chno=".44" tvg-id=".44-100" tvg-logo="https://cdn.raddio.net/storage/photos/374215/7483b7b9f81078af418bcbdb81f1162e.png" group-title="RADIO",100 GREATEST OF THE 80'S
-https://maggie.torontocast.com:2020/stream/100greatestofthe80s
-
-# LuvBay Afrobeat Music/Talk Radio
-#EXTINF:-1 tvg-chno=".45" tvg-id=".45-LuvBay" tvg-logo="https://cdn.raddio.net/storage/photos/345481/e555db416a4beb248bd41130519ebcd5.JPG" group-title="RADIO",LuvBay Afrobeat Music/Talk Radio
-http://149.56.234.138:8177/stream
-
-# Yimago Lite Rock
-#EXTINF:-1 tvg-chno=".46" tvg-id=".46-Yimago" tvg-logo="https://cdn.raddio.net/storage/photos/378720/846b94ba45b22c19f329e1ce92576c2b.png" group-title="RADIO",Yimago Lite Rock
-https://yimago.torontocast.stream/literock
-
-# Radio Tele Tikoze ak Leternel
-#EXTINF:-1 tvg-chno=".47" tvg-id=".47-Radio" tvg-logo="https://cdn.raddio.net/storage/photos/380756/8920ab328601270d60a2d1056d4fa93c.png" group-title="RADIO",Radio Tele Tikoze ak Leternel
-https://stream.zeno.fm/tno0fdiblw5uv
-
-# Classic Hits 109 - Warm109
-#EXTINF:-1 tvg-chno=".48" tvg-id=".48-Classic" tvg-logo="https://cdn.raddio.net/storage/photos/381557/c01eabb03b1b268d8d809120d1797005.jpg" group-title="RADIO",Classic Hits 109 - Warm109
-https://broadcast.classichits109.com/warm109
-
-# Otune Radio
-#EXTINF:-1 tvg-chno=".49" tvg-id=".49-Otune" tvg-logo="https://cdn.raddio.net/storage/photos/376847/0c4b179b729ce6b4bc9b78256fc17fb2.jpg" group-title="RADIO",Otune Radio
-http://live.rcast.net:8576/;stream
-
-# BOP - Trending Hits
-#EXTINF:-1 tvg-chno=".50" tvg-id=".50-BOP" tvg-logo="https://cdn.raddio.net/storage/photos/373481/75d3120965a619c1fa28e89ac5ed2ca3.jpg" group-title="RADIO",BOP - Trending Hits
-https://maggie.torontocast.com:8110/stream?type=.mp3
-
-# 100 GREATEST JAZZ LOUNGE BAR
-#EXTINF:-1 tvg-chno=".51" tvg-id=".51-100" tvg-logo="https://cdn.raddio.net/storage/photos/373874/73891f9c071ce462f189427f87c8e0d5.jpg" group-title="RADIO",100 GREATEST JAZZ LOUNGE BAR
-https://cast1.torontocast.com:4640/stream
-
-# Yimago Country
-#EXTINF:-1 tvg-chno=".52" tvg-id=".52-Yimago" tvg-logo="https://cdn.raddio.net/storage/photos/379784/5966303ae32aba16473b37ae702217e2.png" group-title="RADIO",Yimago Country
-https://yimago.torontocast.stream/country
-
-# RDMIX ITALIAN VINTAGE 70 80 90
-#EXTINF:-1 tvg-chno=".53" tvg-id=".53-RDMIX" tvg-logo="https://cdn.raddio.net/storage/photos/373014/5103b45acd857008e83e10fd8f45e0da.jpg" group-title="RADIO",RDMIX ITALIAN VINTAGE 70 80 90
-https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
-
-# Classic Hits 109 - Christmas
-#EXTINF:-1 tvg-chno=".54" tvg-id=".54-Classic" tvg-logo="https://cdn.raddio.net/storage/photos/378119/86422398cf392b4e6130d75c775295df.jpg" group-title="RADIO",Classic Hits 109 - Christmas
-https://broadcast.classichits109.com/christmas
-
-# Radio Bellissima Relax
-#EXTINF:-1 tvg-chno=".55" tvg-id=".55-Radio" tvg-logo="https://cdn.raddio.net/storage/photos/372548/13b8b59d2ed2279bf7eea778ce715507.jpg" group-title="RADIO",Radio Bellissima Relax
-https://listen.openstream.co/3607/audio
-
-# 100 BEST IBIZA DEEP HOUSE
-#EXTINF:-1 tvg-chno=".56" tvg-id=".56-100" tvg-logo="https://cdn.raddio.net/storage/photos/373875/79f972dd3acc32ecd5ea3985e65b8a1d.jpg" group-title="RADIO",100 BEST IBIZA DEEP HOUSE
+# #100 BEST IBIZA DEEP HOUSE
+#EXTINF:-1 tvg-chno=".5" tvg-id=".5-#100" tvg-logo="https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg" group-title="RADIO",#100 BEST IBIZA DEEP HOUSE
 https://stream.zeno.fm/lwv6zqgtv1dtv
 
-# 100% ACID JAZZ
-#EXTINF:-1 tvg-chno=".57" tvg-id=".57-100%" tvg-logo="https://cdn.raddio.net/storage/photos/380661/7f45f64b787e550722c6b27193b2abb7.jpg" group-title="RADIO",100% ACID JAZZ
-https://mpc1.mediacp.eu:8356/stream
+# # 100 GREATEST HEAVY METAL
+#EXTINF:-1 tvg-chno=".6" tvg-id=".6-#" tvg-logo="https://static.wixstatic.com/media/f361b3_a5ce07773ea14d209785044fbeb26dca~mv2.jpg" group-title="RADIO",# 100 GREATEST HEAVY METAL
+https://cast1.torontocast.com:4660/stream
 
-# Yimago World
-#EXTINF:-1 tvg-chno=".58" tvg-id=".58-Yimago" tvg-logo="https://cdn.raddio.net/storage/photos/379783/9a7891808705d1452dd8c8d152a33a51.png" group-title="RADIO",Yimago World
-https://yimago.torontocast.stream/world
+# A MISSISSIPPI BLUES
+#EXTINF:-1 tvg-chno=".7" tvg-id=".7-A" tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-04-26/7358e7e8c2649a65c1a9d821887e32e3.ico.png" group-title="RADIO",A MISSISSIPPI BLUES
+https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391
 
-# 70 80 90 ITALIA D'AUTORE
-#EXTINF:-1 tvg-chno=".59" tvg-id=".59-70" tvg-logo="https://cdn.raddio.net/storage/photos/374090/9bcce788aaa0ec31dbe6df4f85c655a5.png" group-title="RADIO",70 80 90 ITALIA D'AUTORE
-https://maggie.torontocast.com:2020/stream/708090italiadautore
+# CBC Radio 1 Toronto
+#EXTINF:-1 tvg-chno=".8" tvg-id=".8-CBC" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._kBBu0jkxW7vsBMbUIlxpwHaJA%26pid%3DApi&f=1" group-title="RADIO",CBC Radio 1 Toronto
+https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8
 
-# 100 GREATEST CLASSICAL MUSIC
-#EXTINF:-1 tvg-chno=".60" tvg-id=".60-100" tvg-logo="https://cdn.raddio.net/storage/photos/373599/23d97a0f6391cad1d8315ebc4ce08322.jpg" group-title="RADIO",100 GREATEST CLASSICAL MUSIC
+# # RdMix DJSET 70s 80s 90s
+#EXTINF:-1 tvg-chno=".9" tvg-id=".9-#" tvg-logo="https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png" group-title="RADIO",# RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+
+# # 100 GREATEST CLASSICAL MUSIC
+#EXTINF:-1 tvg-chno=".10" tvg-id=".10-#" tvg-logo="https://static.wixstatic.com/media/f361b3_f977feb1ff14484cb53e8bf0fbff1801~mv2.jpg" group-title="RADIO",# 100 GREATEST CLASSICAL MUSIC
 https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3
 
-# RDMIX RELAXING BLUES
-#EXTINF:-1 tvg-chno=".61" tvg-id=".61-RDMIX" tvg-logo="https://cdn.raddio.net/storage/photos/373010/5722b8b440f4f2029ae095d58d470286.jpg" group-title="RADIO",RDMIX RELAXING BLUES
-https://listen.openstream.co/6440/audio
-
-# SexyBlack Radio
-#EXTINF:-1 tvg-chno=".62" tvg-id=".62-SexyBlack" tvg-logo="https://cdn.raddio.net/storage/photos/372295/b807be0bd3404515a0dcd3aa7c35ed2e.jpg" group-title="RADIO",SexyBlack Radio
-https://streaming.live365.com/a11486
-
-# OYE INDIA
-#EXTINF:-1 tvg-chno=".63" tvg-id=".63-OYE" tvg-logo="https://cdn.raddio.net/storage/photos/377245/26f009bd0552d3c2ba3b1abe9b07da00.jpg" group-title="RADIO",OYE INDIA
-https://hbhamra4.radioca.st/;
-
-# Nature Radio Rain
-#EXTINF:-1 tvg-chno=".64" tvg-id=".64-Nature" tvg-logo="https://cdn.raddio.net/storage/photos/373449/b8a4aec5c14a6e6233f1d5adb834ee26.jpg" group-title="RADIO",Nature Radio Rain
-https://maggie.torontocast.com:2020/stream/natureradiorain
-
-# RockU.FM
-#EXTINF:-1 tvg-chno=".65" tvg-id=".65-RockU.FM" tvg-logo="https://cdn.raddio.net/storage/photos/373146/7fe722c35c5602df74b7b8416f3ce2ff.png" group-title="RADIO",RockU.FM
-http://radio.streemlion.com:3280/;?type=http&nocache=1612814564
-
-# Radio Bellissima Jazz
-#EXTINF:-1 tvg-chno=".66" tvg-id=".66-Radio" tvg-logo="https://cdn.raddio.net/storage/photos/372550/3eadf81a417821be223727a2b60b6500.png" group-title="RADIO",Radio Bellissima Jazz
-https://listen.openstream.co/6091/audio
-
-# Gewoon Radio
-#EXTINF:-1 tvg-chno=".67" tvg-id=".67-Gewoon" tvg-logo="https://cdn.raddio.net/storage/photos/372610/2a64240492035b09aa2524f81881398c.jpg" group-title="RADIO",Gewoon Radio
-https://cast1.torontocast.com:3445/stream
-
-# RDMIX LOUNGE RELAX
-#EXTINF:-1 tvg-chno=".68" tvg-id=".68-RDMIX" tvg-logo="https://cdn.raddio.net/storage/photos/373016/3975d401128c860dbc4c0e1f7233ea67.png" group-title="RADIO",RDMIX LOUNGE RELAX
-https://listen.openstream.co/7011/audio
+# # RdMix Italo Disco 80s
+#EXTINF:-1 tvg-chno=".11" tvg-id=".11-#" tvg-logo="https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg" group-title="RADIO",# RdMix Italo Disco 80s
+https://cast1.torontocast.com:2130/stream
 
 # SMOOTH JAZZ DELUXE
-#EXTINF:-1 tvg-chno=".69" tvg-id=".69-SMOOTH" tvg-logo="https://cdn.raddio.net/storage/photos/377192/be9b393fc8e7e55d85e55624e9f6aed9.jpg" group-title="RADIO",SMOOTH JAZZ DELUXE
-https://cast1.torontocast.com:4490/stream
+#EXTINF:-1 tvg-chno=".12" tvg-id=".12-SMOOTH" tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-04-29/b4058cf6abde795b40675623669b665f.ico.png" group-title="RADIO",SMOOTH JAZZ DELUXE
+https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758
+
+# 100% ACID JAZZ
+#EXTINF:-1 tvg-chno=".13" tvg-id=".13-100%" tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2024-10-25/f83dbfeda4fbcf3399eb5afd0949c4b1.ico.png" group-title="RADIO",100% ACID JAZZ
+https://mpc1.mediacp.eu:8356/stream
+
+# # 100 GREATEST JAZZ LOUNGE BAR
+#EXTINF:-1 tvg-chno=".14" tvg-id=".14-#" tvg-logo="https://static.wixstatic.com/media/f361b3_2722a2a63db342f0901576a0168f2571~mv2.jpg" group-title="RADIO",# 100 GREATEST JAZZ LOUNGE BAR
+https://cast1.torontocast.com:4640/stream
 
 # REGGAE CHILL CAFE
-#EXTINF:-1 tvg-chno=".70" tvg-id=".70-REGGAE" tvg-logo="https://cdn.raddio.net/storage/photos/374091/4119e2de17770ef7693aba3eb1074f82.png" group-title="RADIO",REGGAE CHILL CAFE
+#EXTINF:-1 tvg-chno=".15" tvg-id=".15-REGGAE" tvg-logo="https://radiosuitenetwork.torontocast.stream/favicon.ico" group-title="RADIO",REGGAE CHILL CAFE
 https://maggie.torontocast.com:2020/stream/reggaechillcafe
 
-# Radio Bellissima Classic
-#EXTINF:-1 tvg-chno=".71" tvg-id=".71-Radio" tvg-logo="https://cdn.raddio.net/storage/photos/372547/e236bd17f010eb79bb32fa455c2b5e06.png" group-title="RADIO",Radio Bellissima Classic
-https://listen.openstream.co/4113/audio
+# SENSUAL LOUNGE RADIO
+#EXTINF:-1 tvg-chno=".16" tvg-id=".16-SENSUAL" tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-02-16/253ad4a8eaed27bf80efa9d428914089.ico.png" group-title="RADIO",SENSUAL LOUNGE RADIO
+https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069
 
-# SENSUAL LOUNGE
-#EXTINF:-1 tvg-chno=".72" tvg-id=".72-SENSUAL" tvg-logo="https://cdn.raddio.net/storage/photos/372392/e48bf7f5a5e94594bb138f2ff15cb4c7.jpg" group-title="RADIO",SENSUAL LOUNGE
-https://kathy.torontocast.com:3590/;
+# #1 RdMix Love Songs
+#EXTINF:-1 tvg-chno=".17" tvg-id=".17-#1" tvg-logo="https://radiodimensionemix.torontocast.stream/favicon.ico" group-title="RADIO",#1 RdMix Love Songs
+https://maggie.torontocast.com:2020/stream/rdmixlovesongs
 
-# Radio Bellissima Latina
-#EXTINF:-1 tvg-chno=".73" tvg-id=".73-Radio" tvg-logo="https://cdn.raddio.net/storage/photos/372546/3091753512857cd72576202768f002ad.png" group-title="RADIO",Radio Bellissima Latina
-https://listen.openstream.co/4233/audio
-
-# 100% COVERS LOUNGE
-#EXTINF:-1 tvg-chno=".74" tvg-id=".74-100%" tvg-logo="https://cdn.raddio.net/storage/photos/378357/b5a6489b7c9fb1cebccef842c361f365.jpg" group-title="RADIO",100% COVERS LOUNGE
+# 100 % COVERS LOUNGE
+#EXTINF:-1 tvg-chno=".18" tvg-id=".18-100" tvg-logo="https://radiosuitenetwork.torontocast.stream/100-covers-lounge/favicon.ico" group-title="RADIO",100 % COVERS LOUNGE
 https://az1.mediacp.eu/listen/100coverslounge/radio.mp3
 
-# RDMIX DJSET 70's 80's 90's
-#EXTINF:-1 tvg-chno=".75" tvg-id=".75-RDMIX" tvg-logo="https://cdn.raddio.net/storage/photos/379324/24c07cb10b67f992e9ed504f74bce439.jpg" group-title="RADIO",RDMIX DJSET 70's 80's 90's
-https://cast1.torontocast.com:4560/stream
+# Jazz FM CJRT
+#EXTINF:-1 tvg-chno=".19" tvg-id=".19-Jazz" tvg-logo="https://jazz.fm/favicon.ico" group-title="RADIO",Jazz FM CJRT
+https://jazzfm91.streamb.live/SB00009?args=web_02&player_type=popup&uid=503beb0b-556c-4002-9ed8-cb847eb6402c&user_hash=9dctTbLqKqhACbI8GuosOLT2EbVMS0Oi&gdpr=true&aw_0_req.gdpr=true&listenerid=3f1526922470a8b11f0ebcf5ed4a4b03&awparams=companionAds%3Atrue
+
+# CBC Radio One - Toronto, ON (MP3 stream)
+#EXTINF:-1 tvg-chno=".20" tvg-id=".20-CBC" tvg-logo="https://subscriptions.cbc.ca/newsletter_static/images/1581432928232-cbc-toronto.png" group-title="RADIO",CBC Radio One - Toronto, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBLAFM_CBC_SC
+
+# Prog Palace Radio's The Armory
+#EXTINF:-1 tvg-chno=".21" tvg-id=".21-Prog" tvg-logo="https://www.progpalaceradio.com/favicon.ico" group-title="RADIO",Prog Palace Radio's The Armory
+https://cheetah.streemlion.com/progpalace64
+
+# freeCodeCamp Code Radio
+#EXTINF:-1 tvg-chno=".22" tvg-id=".22-freeCodeCamp" tvg-logo="https://cdn.freecodecamp.org/universal/favicons/android-chrome-384x384.png" group-title="RADIO",freeCodeCamp Code Radio
+https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3
+
+# Classic Hits 109 - Yacht Rock / Mellow Gold
+#EXTINF:-1 tvg-chno=".23" tvg-id=".23-Classic" tvg-logo="http://www.classichits109.com/favicon.ico" group-title="RADIO",Classic Hits 109 - Yacht Rock / Mellow Gold
+https://broadcast.classichits109.com/softrock
+
+# Toronto Global Radio - Freestyle
+#EXTINF:-1 tvg-chno=".24" tvg-id=".24-Toronto" tvg-logo="https://www.torontoglobalradio.com/freestyle/favicon.ico" group-title="RADIO",Toronto Global Radio - Freestyle
+https://london-dedicated.myautodj.com:3199/proxy/freestyle/stream
+
+# RADIOWAVES
+#EXTINF:-1 tvg-chno=".25" tvg-id=".25-RADIOWAVES" tvg-logo="https://www.marcofantasia.eu/radiowaves/favicon.ico" group-title="RADIO",RADIOWAVES
+https://quincy.torontocast.com/radiowaves
+
+# Prog Palace Radio's The Courtyard
+#EXTINF:-1 tvg-chno=".26" tvg-id=".26-Prog" tvg-logo="https://www.progpalaceradio.com/favicon.ico" group-title="RADIO",Prog Palace Radio's The Courtyard
+https://puma.streemlion.com:5045/stream
+
+# Riverwood Radio
+#EXTINF:-1 tvg-chno=".27" tvg-id=".27-Riverwood" tvg-logo="https://riverwood-radio.online/logo.png" group-title="RADIO",Riverwood Radio
+https://stream3.hornhost.com:8054/stream
+
+# RDMIX ITALIAN VINTAGE 70 80 90
+#EXTINF:-1 tvg-chno=".28" tvg-id=".28-RDMIX" tvg-logo="https://radiodimensionemix.torontocast.stream/favicon.ico" group-title="RADIO",RDMIX ITALIAN VINTAGE 70 80 90
+https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
+
+# Classic Hits 109 - Country Hits
+#EXTINF:-1 tvg-chno=".29" tvg-id=".29-Classic" tvg-logo="http://www.classichits109.torontocast.stream/favicon.ico" group-title="RADIO",Classic Hits 109 - Country Hits
+https://broadcast.classichits109.com/country
+
+# Radio Canada Ici Première Toronto, ON
+#EXTINF:-1 tvg-chno=".30" tvg-id=".30-Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ICI_Radio-Canada_Premi%C3%A8re.svg/200px-ICI_Radio-Canada_Premi%C3%A8re.svg.png" group-title="RADIO",Radio Canada Ici Première Toronto, ON
+https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8
+
+# Radio Enigma
+#EXTINF:-1 tvg-chno=".31" tvg-id=".31-Radio" tvg-logo="https://enigmastationonair.com/favicon.ico" group-title="RADIO",Radio Enigma
+https://cast1.torontocast.com:4765/stream
+
+# CBC Music Eastern (Toronto) MP3 Stream
+#EXTINF:-1 tvg-chno=".32" tvg-id=".32-CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png" group-title="RADIO",CBC Music Eastern (Toronto) MP3 Stream
+https://18303.live.streamtheworld.com/CBLFM_CBC_SC
+
+# Radio Bellissima Christmas
+#EXTINF:-1 tvg-chno=".33" tvg-id=".33-Radio" tvg-logo="https://radiobellissima.it/favicon.ico" group-title="RADIO",Radio Bellissima Christmas
+https://puma.streemlion.com:1340/stream
+
+# Fighting Game Community Radio
+#EXTINF:-1 tvg-chno=".34" tvg-id=".34-Fighting" tvg-logo="https://www.fgcast.com/wp-content/uploads/2024/03/cropped-FGCast_Logo_SiteLogo_background.png" group-title="RADIO",Fighting Game Community Radio
+https://radio.fgcast.com/listen/fgc_radio/standard.mp3
+
+# Power Pop Rock Radio
+#EXTINF:-1 tvg-chno=".35" tvg-id=".35-Power" tvg-logo="https://www.powerradio.world/favicon.ico" group-title="RADIO",Power Pop Rock Radio
+https://cheetah.streemlion.com:3430/stream
+
+# ALT/80
+#EXTINF:-1 tvg-chno=".36" tvg-id=".36-ALT/80" tvg-logo="https://www.radio.net/images/broadcasts/3a/fc/138355/1/c300.png" group-title="RADIO",ALT/80
+https://jenny.torontocast.com:8050/stream
+
+# LOVE MOMENTS RADIO
+#EXTINF:-1 tvg-chno=".37" tvg-id=".37-LOVE" tvg-logo="https://radiosuitenetwork.torontocast.stream/favicon.ico" group-title="RADIO",LOVE MOMENTS RADIO
+https://radio.mediacp.eu/stream/lovemomentsradio
+
+# CHIR.com "Greek Radio Station" Toronto, ON
+#EXTINF:-1 tvg-chno=".38" tvg-id=".38-CHIR.com" tvg-logo="http://www.chir.com/favicon.ico" group-title="RADIO",CHIR.com "Greek Radio Station" Toronto, ON
+http://s6.yesstreaming.net:7032/stream
+
+# Classic Hits 109 - Classic Rock 109
+#EXTINF:-1 tvg-chno=".39" tvg-id=".39-Classic" tvg-logo="http://www.classichits109.torontocast.stream/favicon.ico" group-title="RADIO",Classic Hits 109 - Classic Rock 109
+http://listen.classicrock109.com:10042/;
+
+# Sankofa Radio Toronto
+#EXTINF:-1 tvg-chno=".40" tvg-id=".40-Sankofa" tvg-logo="https://sankofaradiotoronto.com/Favicon" group-title="RADIO",Sankofa Radio Toronto
+https://srtlive.duckdns.org/listen/sankofaradiotoronto/radio.mp3
+
+# Absoluut FM
+#EXTINF:-1 tvg-chno=".41" tvg-id=".41-Absoluut" tvg-logo="https://www.absoluutfm.com/wp-content/uploads/2018/11/cropped-AFM-Logo-klein-3.jpg" group-title="RADIO",Absoluut FM
+https://absoluutfm.stream.laut.fm/absoluutfm
+
+# JBRadio2
+#EXTINF:-1 tvg-chno=".42" tvg-id=".42-JBRadio2" tvg-logo="https://jb-radio.net/favicon.ico" group-title="RADIO",JBRadio2
+https://mediacp.jb-radio.net:8001/aac
+
+# Hits 93 Toronto
+#EXTINF:-1 tvg-chno=".43" tvg-id=".43-Hits" tvg-logo="https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/627205370_1436697318465808_8403157598963764154_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=c4jmC6eCc0sQ7kNvwHz3Zaz&_nc_oc=Admi7W263BvTR9hiSulCHp_k7P9_4lv19MK6b9GGfLMFolXarP6Ci_T5kGpOS8FuZto&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&_nc_gid=8LF16M7qTYmlQ97zmwRqKA&oh=00_AfueUzveS6n58ZIr9SNjiKyJLb1B4oamk4pRrKmXJvi2EQ&oe=6988F913" group-title="RADIO",Hits 93 Toronto
+https://hits93toronto.com:2955/stream
+
+# Radio Happysound
+#EXTINF:-1 tvg-chno=".44" tvg-id=".44-Radio" tvg-logo="https://radiohappysound.com/favicon.ico" group-title="RADIO",Radio Happysound
+https://radiohappysound.com/192-ssl
+
+# MTSN - The Mammoth
+#EXTINF:-1 tvg-chno=".45" tvg-id=".45-MTSN" tvg-logo="https://mammothradio.com/favicon.ico" group-title="RADIO",MTSN - The Mammoth
+https://radio.mammothradio.com/radio/8000/radio.mp3
+
+# KONA Stream
+#EXTINF:-1 tvg-chno=".46" tvg-id=".46-KONA" tvg-logo="http://www.konastream.com/favicon.ico" group-title="RADIO",KONA Stream
+http://jenny.torontocast.com:9002/stereo
+
+# CBC Music Eastern (formerly CBC Radio 2 Toronto)
+#EXTINF:-1 tvg-chno=".47" tvg-id=".47-CBC" tvg-logo="https://www.cbc.ca/listen/static/icons/asset-cbc-listen-icon-apple-touch-60@2x-beta.png" group-title="RADIO",CBC Music Eastern (formerly CBC Radio 2 Toronto)
+https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8
+
+# DJFM.ca Toronto, ON
+#EXTINF:-1 tvg-chno=".48" tvg-id=".48-DJFM.ca" tvg-logo="https://djfm.ca/wp-content/uploads/2016/07/logo.png" group-title="RADIO",DJFM.ca Toronto, ON
+http://mux.mtl.djfmradio.com/djfm
+
+# Radio Regent.com Toronto, ON
+#EXTINF:-1 tvg-chno=".49" tvg-id=".49-Radio" tvg-logo="https://www.radioregent.com/images/radioregent_web.png" group-title="RADIO",Radio Regent.com Toronto, ON
+https://streamer.radio.co/se3e1e3815/low
+
+# Epic Rock Radio TorontoCast
+#EXTINF:-1 tvg-chno=".50" tvg-id=".50-Epic" tvg-logo="https://www.epicrockradio.com/favicon.ico" group-title="RADIO",Epic Rock Radio TorontoCast
+https://443-1.autopo.st/107/stream/
+
+# Radio Pakistan Toronto
+#EXTINF:-1 tvg-chno=".51" tvg-id=".51-Radio" tvg-logo="https://www.radiopakistanfm.com/favicon.ico" group-title="RADIO",Radio Pakistan Toronto
+https://s3.radio.co/s3b10a57ef/listen
+
+# CP24 Audio Channel - Toronto, ON
+#EXTINF:-1 tvg-chno=".52" tvg-id=".52-CP24" tvg-logo="http://www.cp24.com/favicon.ico" group-title="RADIO",CP24 Audio Channel - Toronto, ON
+http://22113.live.streamtheworld.com/TV_CP24AAC_SC
+
+# CamoesRadio.com - Toronto, ON
+#EXTINF:-1 tvg-chno=".53" tvg-id=".53-CamoesRadio.com" tvg-logo="https://camoesradio.com/ewrt87u6ythghrhfg/2018/07/camoesradio-com-icon-150x150.png" group-title="RADIO",CamoesRadio.com - Toronto, ON
+http://camoesradio.out.airtime.pro:8000/camoesradio_a#.mp3
+
+# Masalabeats Toronto
+#EXTINF:-1 tvg-chno=".54" tvg-id=".54-Masalabeats" tvg-logo="null" group-title="RADIO",Masalabeats Toronto
+http://usa10.fastcast4u.com:7070/
+
+# toronto global radio - euro
+#EXTINF:-1 tvg-chno=".55" tvg-id=".55-toronto" tvg-logo="http://www.torontoglobalradio.com/favicon.ico" group-title="RADIO",toronto global radio - euro
+https://london-dedicated.myautodj.com:3199/proxy/euro/stream
+
+# Toronto Global Radio - Trance
+#EXTINF:-1 tvg-chno=".56" tvg-id=".56-Toronto" tvg-logo="https://www.torontoglobalradio.com/favicon.ico" group-title="RADIO",Toronto Global Radio - Trance
+https://london-dedicated.myautodj.com:3199/proxy/trance/stream
+
+# RADIO MARIA CANADA - TORONTO
+#EXTINF:-1 tvg-chno=".57" tvg-id=".57-RADIO" tvg-logo="https://www.radiomaria.ca/favicon.ico" group-title="RADIO",RADIO MARIA CANADA - TORONTO
+http://dreamsiteradiocp4.com:8016/stream
+
+# iLive Radio.com - Toronto, ON
+#EXTINF:-1 tvg-chno=".58" tvg-id=".58-iLive" tvg-logo="http://i-liveradio.com/favicon.ico" group-title="RADIO",iLive Radio.com - Toronto, ON
+http://streaming.radio.co/s735df8c1c/listen
+
+# Radio Italia Canada
+#EXTINF:-1 tvg-chno=".59" tvg-id=".59-Radio" tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="RADIO",Radio Italia Canada
+https://streaming.radiostreamlive.com/radioitaliacanada_devices
+
+
+# ===================================================================
+# AM RADIO STREAMS
+# ===================================================================
+
+# CKGL 570
+#EXTINF:-1 tvg-chno="10570" tvg-id="10570-CKGL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/150px-CityNews_570_logo.jpg" group-title="RADIO - AM",CKGL 570
+https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
+
+# CJCL 590
+#EXTINF:-1 tvg-chno="10590" tvg-id="10590-CJCL" tvg-logo="https://www.sportsnet.ca/wp-content/themes/sportsnet-nhl/images/sn_logo_120x120_bg_white.png" group-title="RADIO - AM",CJCL 590
+https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+
+# CFIQ 640
+#EXTINF:-1 tvg-chno="10640" tvg-id="10640-CFIQ" tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/assets/dist/images/logo-morty.svg" group-title="RADIO - AM",CFIQ 640
+https://corus.leanstream.co/CFIQAM-MP3
+
+# CFTR 680
+#EXTINF:-1 tvg-chno="10680" tvg-id="10680-CFTR" tvg-logo="https://toronto.citynews.ca/apple-touch-icon.png?v=2" group-title="RADIO - AM",CFTR 680
+https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
+
+# CFRB 1010
+#EXTINF:-1 tvg-chno="11010" tvg-id="11010-CFRB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png" group-title="RADIO - AM",CFRB 1010
+http://22113.live.streamtheworld.com:3690/CFRBAMAAC_SC
+
+# CHUM 1050
+#EXTINF:-1 tvg-chno="11050" tvg-id="11050-CHUM" tvg-logo="https://www.tsn.ca/img/tsn/icons/apple-touch-icon-120x120.png" group-title="RADIO - AM",CHUM 1050
+http://26373.live.streamtheworld.com:3690/CHUMAMAAC_SC
+
+# CJTM 1280
+#EXTINF:-1 tvg-chno="11280" tvg-id="11280-CJTM" tvg-logo="https://www.cjru.ca/favicon.ico" group-title="RADIO - AM",CJTM 1280
+https://ryerson.out.airtime.pro/ryerson_a
+
+# CJMR 1320
+#EXTINF:-1 tvg-chno="11320" tvg-id="11320-CJMR" tvg-logo="http://www.cjmr1320.ca/favicon.ico" group-title="RADIO - AM",CJMR 1320
+http://14123.live.streamtheworld.com:3690/CJMRAMAAC_SC
+
+# CIRF 1350
+#EXTINF:-1 tvg-chno="11350" tvg-id="11350-CIRF" tvg-logo="https://radiohumsafar.com/wp-content/uploads/2020/03/cropped-RHLOGO-1.png" group-title="RADIO - AM",CIRF 1350
+https://ice66.securenetsystems.net/CIRF
+
+# CHKT 1430
+#EXTINF:-1 tvg-chno="11430" tvg-id="11430-CHKT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Fairchild_Radio_2012.png/100px-Fairchild_Radio_2012.png" group-title="RADIO - AM",CHKT 1430
+https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
+
+# CHIN 1540
+#EXTINF:-1 tvg-chno="11540" tvg-id="11540-CHIN" tvg-logo="https://www.chinradio.com/favicon.ico" group-title="RADIO - AM",CHIN 1540
+http://ice7.securenetsystems.net/CHINAM
+
+# CHHA 1610
+#EXTINF:-1 tvg-chno="11610" tvg-id="11610-CHHA" tvg-logo="http://chha1610am.ca/favicon.ico" group-title="RADIO - AM",CHHA 1610
+http://72.139.27.130:100/broadwave.mp3?src=1&rate=1
