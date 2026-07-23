@@ -27,15 +27,6 @@ http://26373.live.streamtheworld.com:3690/CHUMAMAAC_SC
 
 
 # ===================================================================
-# AM RADIO STREAMS
-# ===================================================================
-
-# CKGL 570
-#EXTINF:-1 tvg-chno="10570" tvg-id="10570-CKGL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/CityNews_570_logo.jpg/250px-CityNews_570_logo.jpg" group-title="RADIO - AM",CKGL 570
-https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
-
-
-# ===================================================================
 # FM RADIO STREAMS
 # ===================================================================
 
@@ -54,6 +45,10 @@ http://live.leanstream.co/CKBTFM-MP3
 # CHYM 96.7
 #EXTINF:-1 tvg-chno="10967" tvg-id="10967-CHYM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/252/chym-fm-967.fffc1dd5.png" group-title="RADIO - FM",CHYM 96.7
 https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
+
+# CBLA 99.1
+#EXTINF:-1 tvg-chno="10991" tvg-id="10991-CBLA" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/111/cbla-fm-cbc-radio-one-toronto.04271fb2.png" group-title="RADIO - FM",CBLA 99.1
+https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8
 
 # CJDV 107.5
 #EXTINF:-1 tvg-chno="11075" tvg-id="11075-CJDV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/070/cjdv-1075-dave-rocks-fm.faf16aa6.jpg" group-title="RADIO - FM",CJDV 107.5
